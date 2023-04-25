@@ -193,3 +193,74 @@ tiếng việt tiếng anh: S + V + O
     - Deep learning 
 - computational linguistic: data = corpus
     - corpus = yu liao ku = ngữ liệu khố = collection of spoken/written 
+
+## 250423
+- các ngôn ngữ trên thế giới 
+- các ngôn ngữ đang ngày một mất đi do kinh tế, đời sống xã hội -> mất đi văn hoá, tri thức, lịch sử
+- ngôn ngữ khác từ vựng, từ vựng của tiếng anh nhiều nhưng ngữ pháp không hẳn là logic nhất
+- chữ viết là nhân tạo, chỉ có một số ngôn ngữ có chữ viết
+- Vietnamese writings:
+    - chữ Nôm - Hàn Thuyên (vào thế kỷ thứ 13)
+    - chữ Quốc Ngữ - Alexandre de Rhodes
+    - đang ghi âm chứ không ghi ý
+- Chữ quốc ngữ = latin + dấu thanh(tone mark: sắc - huyền - hỏi - ngã - nặng) + dấu phụ (diacritics: ă, â, ư, ơ, ô)
+- latin = hy lạp (greek) (y <-> y greek)
+- 
+- chữ hàn quốc là khoa học nhất thế giới -> có thể đọc được ngay khi học (chữ được vua Sejong phát âm ~ 1443) -> chữ cái mô tả hình dáng lưỡi khi phát âm
+
+
+nhắc thầy đưa coursera gửi lớp
+
+chữ viết Do Thái (Hebrew alphabet - dựa trên David star)
+-> tiệm kim hoàn = jewelry = tiền của người do thái (jew - người do thái)
+- chữ người do thái không có nguyên âm, chỉ có phụ âm (vd: jrslm - jerusalem - jeru (thành phố) và salem (hoà bình))
+- có 3 cách phân loại ngôn ngữ:
+    1. tất cả ngôn ngữ có cùng một nguồn gốc, được phân thành 5 nhóm (ngữ hệ) theo yếu tố thời gian (diachronic):
+        - ngữ hệ > dòng > ngành > nhóm > vùng 
+        - ảnh hưởng nhiều bởi địa lý
+        1. ấn âu (indo-euro): german -> english (vd kinder(child)-garten(garden))
+        2. semitic
+        3. thổ (turkish)
+        4. sino-tibetan (hán - tạng)
+        5. nam phương (austro-asia): Mon-Khmer branch > Viet Muong group > Muong and Vietnamese
+
+    syn(cùng/đồng)-chrony(thời gian)
+
+2. phân theo typology, có 3 nhóm:
+    1. flexional languages: phụ thuộc vào ngôi (person) - số - thì (tense) - chủ cách (he) - đối cách (him) - giống (trung/đực/cái), lối(mood)(mệnh lệnh cách, bàn thái cách) - thể (form: nghi vấn, phủ định, khẳng định)
+    - trong các ngôn ngữ biến hình, tiếng anh biến hình ít nhất. Vd: we shall -> we will; I/we/you/they go -> he/she goes
+    - mức độ biến hình tiếng Pháp cao hơn tiếng Anh
+    - mức độ biến hình tiếng Nga cao hơn tiếng Pháp =)) => nó cụ thể hơn do ngữ nghĩa đã nằm trong từ nên thứ tự ko còn quan trọng nữa, khi đó thứ tự dùng để biểu thị sắc thái: formal/informal
+    - latin khó nhất =))
+    2. Ngôn ngữ chắp dính:
+    - tiếng Nhật
+    - tiếng Hàn
+    3. Isolating (đơn lập): ngôn ngữ không biến hình/rời rạc
+    - vd: I see him: tôi thấy anh - anh thấy tôi
+    4. đa tầng hợp
+3. Trật tự từ (word order typology): SOV => 3! cách 
+    1. SOV: 41-51.8%
+    2. SVO: 32.4-41.8%
+
+Bài tập về nhà:
+- cho biết ngữ hệ - loại hình - trật tự từ - chữ viết của các câu này
+- trong ghi âm có 2 loại: ghi âm vị hay ghi âm tiết 
+- dùng hệ chữ gì để ghi
+- "tiếng anh và tiếng việt khác nhau vì tiếng anh là ngôn ngữ ấn âu còn tiếng việt là ngôn ngữ đơn lập" => so sánh sai cấp 
+- tiếng anh - ghi âm - hệ latin để ghi
+- tiêng pháp - latin + dấu - 
+- madarin - ghi ý và ghi âm - 
+- tiếng việt - ghi âm
+
+- cơ hàn = đói rét
+- cơ sở = 
+- cơ khí = 
+- cơ bắp = 
+3 classification (dựa trên voice):
+    - gene(nguồn gốc - history): 5 ngữ hệ 
+    - typology (loại hình): 4 loại hình: biến hình - chắp dính - đơn lập (viet - chinese - thái - lào) - đa tầng hợp
+    - word order: SOV
+
+language có 2 hình thức thể hiện:
+    1. voice (natural)
+    2. writing (artifitial)
