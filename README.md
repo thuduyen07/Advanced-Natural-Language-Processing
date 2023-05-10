@@ -4,6 +4,7 @@
 Quá trình xử lý ngôn ngữ tự nhiên để máy có thể hiểu được
 ### 2. Taị sao NLP khó?
 - Đa dạng
+- Nhập nhằng
 - không trùng lặp kể cả 1 người trong suốt một đời 90% cũng ko lặp lại
 ### 3. Thi cử
 - trình bày lý thuyết seminar để lấy điểm giữa kỳ 50%
@@ -253,9 +254,10 @@ Bài tập về nhà:
 - tiếng việt - ghi âm
 
 - cơ hàn = đói rét
-- cơ sở = 
-- cơ khí = 
-- cơ bắp = 
+- cơ sở = bộ thổ
+- cơ khí = bô mộc
+- cơ bắp = bộ nhục - muscle - con chuột (theo tiếng latin)
+- cơ thị = bộ nữ
 3 classification (dựa trên voice):
     - gene(nguồn gốc - history): 5 ngữ hệ 
     - typology (loại hình): 4 loại hình: biến hình - chắp dính - đơn lập (viet - chinese - thái - lào) - đa tầng hợp
@@ -264,3 +266,99 @@ Bài tập về nhà:
 language có 2 hình thức thể hiện:
     1. voice (natural)
     2. writing (artifitial)
+
+## 090523
+Nhật Bản - 2 syllable - 2 âm tiết
+bản - 3 âm vị
+hình vị morpheme
+âm vị - phoneme
+từ vị - lexeme
+từ - word - lexicon
+
+CH-K2023
+chữ cái (= mẫu tự) = letter 3
+mẫu tự (alphabet) 3
+ký số (numeric) 4
+ký hiệu (symbol) 1
+ký tự = chữ cái + ký số + ký hiệu (character) 8
+chữ cái + chữ số = alphanumeric
+
+'học sinh' có 2 chữ
+'học' có 3 chữ cái
+=> chữ # chữ cái
+
+chỉ có tiếng Trung ghi ý, còn lại đều ghi âm
+chỉ có tiếng Nhật ghi âm tiết, còn lại đều ghi âm vị
+
+Quốc tế ngữ là ngôn ngữ nhân tạo
+- không có nguồn gốc do không phải ngôn ngữ tự nhiên, không mang theo bản sắc của bất kỳ dân tộc nào
+
+chữ viết
+- ghi âm
+    - âm vị
+        - nguyên + phụ âm (V+C) (phoneme): gọi là alphabet - latin, greek, cyrillic (nga)
+        - alphabet mà không có nguyên âm (abjad): hebrew, arabic (ví dụ chữ do thái)
+        - aphabet với nguyên âm như một đặc trưng (abugida): hangeul, thai, lao
+    - âm tiết (syllabary): tiếng nhật (hira, kata)
+- ghi ý: hán 
+
+> ## Phân biệt tiếng Việt và tiếng Anh đương đại
+- khác nhau lớn nhất: tiếng việt và các ngôn ngữ đơn có đơn vị **chữ** (morpho-syllabel ~ hình tiết) trong khi tiếng anh không có đơn vị này
+- tiếng anh có 6 cấp độ ngôn ngữ, tiếng việt có 7 cấp độ ngôn ngữ
+3 cấp đặc điểm:
+- ngôn ngữ tự nhiên (tất cả các ngôn ngữ nói chung): ambiguous (nhập nhằng)
+    - là hiện tượng xã hội, ko phải hiện tượng tự nhiên, không di truyền
+    - hình thức giap tiếp quan trọng để giao tiếp giữa con người 
+    - **hệ thống** (có mối quan hệ với nhau) tín hiệu đặc biệt gồm: biểu hiện (hình thức: sound/image) và được biểu hiện (nội dung)
+        - phoneme: smallest unit of voice (âm vị)
+        - morpheme: (có nghĩa) smallest unit carrying the meaning (hình vị) gồm 2 loại free (tự do) và bound (bị ràng buộc), ví dụ:
+            - học sinh có 2 hình vị 
+            - bất (không) trắc (đo lường) (trắc nghiệm, sinh trắc, nhân trắc học...)
+            - lãng (sống nay đây mai đó) tử (người con trai) - đồng âm dẫn đến: chớt lãng nhách =))
+            - giai (đẹp/hay) nhân/điệu/thoại
+            - giai (bậc thềm) cấp/đoạn
+            - giai (cùng nhau) lão 
+            - tối (nhất) ưu (tốt) => không dùng tối ưu hơn, tối ưu nhất
+            - hầu hết hán việt là bound morpheme
+        - word: (dùng độc lập được) free morpheme, ví dụ "tôi là giáo viên"/"I am teacher"
+            - 3 word
+            - 4 morpheme (teach|er 2 morpheme) - er, giáo và viên là các hình vị không độc lập (bound morpheme)
+
+            > học sinh
+                - 1 từ
+                - 2 chữ
+                - 2 âm tiết
+                - 2 hình vị
+            
+        - phrase: many word
+        - sentence
+        - text
+    - Ngôn ngữ là sự quy ước của cộng đồng, nên nhiều cái sai nhưng dùng nhiều thành đúng, ví dụ:
+        - chúng cư
+        - thống kế
+    
+- loại hình (ngôn ngữ đang xét):
+- ngôn ngữ (ngôn đang xét, nói riêng)
+
+literal: chữ nghĩa
+
+letter: chữ cái
+
+script: ký/viết
+
+grapheme: tự vị
+
+syllable: âm tiết
+
+writing chữ viết
+
+monosyllable đơn tiết
+
+BTVN
+Tất cả các chữ tiếng việt có tương đương với hình vị không (đều có nghĩa)? Cho ví dụ? Phân loại
+vd: cà phê - vì vay mượn từ tiếng pháp - nên không có nghĩa
+TH1: từ vay mượn (cà phê, ban công)
+TH2: từ láy (long lanh, )
+TH3: từ cổ - gà qué, chó má
+TH4:  
+ch - v : không ổn định - phoneme
