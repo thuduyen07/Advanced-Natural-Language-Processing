@@ -355,10 +355,17 @@ writing chữ viết
 monosyllable đơn tiết
 
 BTVN
+
 Tất cả các chữ tiếng việt có tương đương với hình vị không (đều có nghĩa)? Cho ví dụ? Phân loại
+
 vd: cà phê - vì vay mượn từ tiếng pháp - nên không có nghĩa
+
 TH1: từ vay mượn (cà phê, ban công)
+
 TH2: từ láy (long lanh, )
+
 TH3: từ cổ - gà qué, chó má
+
 TH4:  
+
 ch - v : không ổn định - phoneme
