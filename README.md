@@ -303,7 +303,7 @@ chữ viết
 - ghi ý: hán 
 
 > ## Phân biệt tiếng Việt và tiếng Anh đương đại
-- khác nhau lớn nhất: tiếng việt và các ngôn ngữ đơn có đơn vị **chữ** (morpho-syllabel ~ hình tiết) trong khi tiếng anh không có đơn vị này
+- khác nhau lớn nhất: tiếng việt(là ngôn ngữ đơn lập) và các ngôn ngữ đơn có đơn vị **chữ** (morpho-syllabel ~ hình tiết) trong khi tiếng anh không có đơn vị này
 - tiếng anh có 6 cấp độ ngôn ngữ, tiếng việt có 7 cấp độ ngôn ngữ
 3 cấp đặc điểm:
 - ngôn ngữ tự nhiên (tất cả các ngôn ngữ nói chung): ambiguous (nhập nhằng)
@@ -362,10 +362,106 @@ vd: cà phê - vì vay mượn từ tiếng pháp - nên không có nghĩa
 
 TH1: từ vay mượn (cà phê, ban công)
 
-TH2: từ láy (long lanh, )
+TH2: từ láy (long lanh, lấp lánh)
 
-TH3: từ cổ - gà qué, chó má
-
-TH4:  
+TH3: từ cổ - mờ nghĩa/mất nghĩa
+ - gà qué, chó má, chợ búa, 
+ - đểu cáng - đểu(phu khiêng đồ) cáng(phu khiêng người), 
+ - bù nhìn, bồ câu, mồ hôi, 
+ - cốt(xương) cách(da), viên(tròn) mãn(đầy), hàn(lạnh) huyên(nóng), hàn thử biểu (nhiệt kế), ẩm(uống) thực(ăn)
+ - quản = ống: khí quản, thực quản, 
+ đáo(đến) để(đáy), hô(thở) hấp(hít), 
+ đăm(trái) chiêu(phải)=> cân nhắc kỹ lưỡng, vd: chân đăm đá chân chiêu
+ - *: aster(star)|isk(small)
+ - dis(disappear)|aster(star) 
+ - dict(nói)|ion(sự)|ary() => predict(nói trước/tiên đoán), contra(ngược lại)|dict(nói), dictation(đọc chính tả), dictator(độc tài)
+ - intro(nhập/vào)|duct(dẫn|ion(sự)
+ - e|duc(dẫn dắt)|ation
+ - ped(trẻ em)|agogy(người dạy dỗ)
+ - philo(yêu)|sophy(sự thông thái)
+ - sui(tự)|cide(tử), pesti(sâu bọ)|cide(chớt), geno(thế hệ)|cide(chớt) = diệt chủng
+TH4: 
 
 ch - v : không ổn định - phoneme
+
+## 160523
+
+tôi(từ đơn) là(từ đơn) giáo(hình vị) viên
+
+> Phân biệt từ đơn vs. hình vị:
+Chữ ~ hình vị vì các từ vay mượn là chữ nhưng không là hình vị(ví dụ: cà phê)
+
+Hình vị:
+- Tự do = từ đơn 
+- Ràng buộc: hầu hết Hán Việt (giáo viên, đại học, học sinh)
+
+Tôi là một giáo viên - 4 từ - 5 chữ
+
+I am a teacher - 4 từ
+
+=> trong tiếng Việt, khoảng trắng vừa phân biệt từ, vừa phân biệt hình vị => nhập nhằng
+
+Phương pháp giải quyết: 
+1. LRMM - left right max match(heuristic): duyệt và lấy cụm các chữ lớn nhất xuất hiện trong từ điển (3/4 chữ)
+- nhưng sai trong 1 số trường hợp như: "trên |bàn là| một chai nước", "một ông |quan tài| giỏi", "tốc độ |truyền thông| tin"
+
+> hệ thống của ngôn ngữ tự nhiên, các bình diện gồm
+1. ngữ âm: âm vị < âm tiết
+2. hình thái: hình vị
+3. ngữ pháp: từ pháp + cú pháp
+4. ngữ nghĩa
+5. 
+
+> Tiếng Việt
+- ngôn ngữ đơn lập
+- không biến hình (của loại hình đơn lập)
+- phương thức ngữ pháp (grammatical methods): là trật tự từ(word order) và hư từ(function word) nhằm thể hiện ý nghĩa ngữ pháp
+    - ý nghĩa ngữ pháp (hư từ - function word) bao gồm số/thì/thể(s/es, những, đang)>< ý nghĩa từ vựng(thực từ - content word)(book, cuốn, sách, làm)
+    - BOW - bag of words không chú trọng trật tự từ
+    - BERT -  có chú trọng trật tự từ, thích hợp với ngôn ngữ đơn 
+- tồn tại đơn vị đặc biệt morpho-syllable (hình tiết): tiếng (phát âm) = âm tiết(phát âm - mang tính hàn lâm hơn) = chữ (viết) (của loại hình đơn lập)
+- biên giới từ (word boudary) nhập nhằng. Ví dụ: học sinh học sinh học
+- word segmentation là tác vụ tiên quyết để làm các tác vụ khác như spelling checker, POS tagger...
+    - liên từ "và": khác "tù và", khác động từ "và"
+- có các từ chỉ loại (special classifier) đi với các danh từ: *cái* bàn, *cuốn* sách, *bức* thư, *con* chó, *con* sông, *vì* sao, *ngôi* sao... -- đặc điểm của ngôn ngữ đơn lập hay **không**? thái viet han nhat lao
+- thanh điệu -- đặc điểm của cấp nào? của riêng tiếng việt hay đơn lập
+- âm vị siêu đoạn tính (suppra-segmental phoneme)
+    - "toán" có 5 âm vị(vì nó tính luôn cả thanh điệu)
+    - thanh điệu khiến tần số âm tiết khác nhau toàn bộ giữa "toán" và "toàn"
+- từ láy
+- nói lái(spoonerism) có hiện tượng này vì tiếng việt kết cấu lỏng lẻo 3 phần gồm phụ âm đầu, vần và thanh điệu -- còn tiếng nào có tính chất này không? 
+
+> tiếng anh
+- ngôn ngữ biến cách theo thì/thể/số
+- ý nghĩa ngữ pháp nằm trong từ
+- phương thức ngữ pháp: hậu tố (suffix)
+- hình thành từ bằng cách thêm tiền - hậu tố. 
+
+ví dụ: anti(chống)|com(cùng nhau)|put|er|iza|tion|al - liên quan đến việc chống lại điện toán hoá
+
+anti|dis(tách)|establishment(nhà thờ can thiệp vào chính quyền/thành lập)|ar(chỉ tính từ)|ian|ism(chủ nghĩa): chủ nghĩa của những người chống lại việc tách rời nhà thờ ra khỏi chính quyền
+
+tiếng việt vs. tiếng anh khác nhau:
+- loại hình
+- văn hoá 
+    - thế giới quan: (in the sky/trên trời)
+    - (xưng khiêm - tôi, hô tôn - ngài) 
+    - địa lý (vào nam ra bắc) - lịch sử 
+    - nông nghiệp vs. du mục
+- tiêng việt thiên về động hoá (verbalization) 
+- tiếng anh thiên về danh hoá (normalization)
+
+> đề tài: 6 nhóm (chọn cái tô màu vàng) - làm cá nhân
+nhóm 1: ứng dụng - prompt engineering
+
+nhóm 2: tìm hiểu công cụ - phân biệt đâu là máy/người viết -- có thể code demo phần detect
+
+nhóm 3: code - xây dựng ứng dụng (có thể dùng API)
+
+nhóm 4: xây dựng một ứng dụng tương tự chatgpt
+
+nhóm 5: xây dựng api
+
+nhóm 6: đề tài hán nôm
+
+
