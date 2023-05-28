@@ -277,10 +277,15 @@ từ - word - lexicon
 
 CH-K2023
 chữ cái (= mẫu tự) = letter 3
+
 mẫu tự (alphabet) 3
+
 ký số (numeric) 4
+
 ký hiệu (symbol) 1
+
 ký tự = chữ cái + ký số + ký hiệu (character) 8
+
 chữ cái + chữ số = alphanumeric
 
 'học sinh' có 2 chữ
@@ -293,9 +298,9 @@ chỉ có tiếng Nhật ghi âm tiết, còn lại đều ghi âm vị
 Quốc tế ngữ là ngôn ngữ nhân tạo
 - không có nguồn gốc do không phải ngôn ngữ tự nhiên, không mang theo bản sắc của bất kỳ dân tộc nào
 
-chữ viết
+Có 5 loại chữ viết:
 - ghi âm
-    - âm vị
+    - âm vị (phoneme)
         - nguyên + phụ âm (V+C) (phoneme): gọi là alphabet - latin, greek, cyrillic (nga)
         - alphabet mà không có nguyên âm (abjad): hebrew, arabic (ví dụ chữ do thái)
         - aphabet với nguyên âm như một đặc trưng (abugida): hangeul, thai, lao
@@ -463,5 +468,156 @@ nhóm 4: xây dựng một ứng dụng tương tự chatgpt
 nhóm 5: xây dựng api
 
 nhóm 6: đề tài hán nôm
+
+## 230523
+## Section 2: Formal languages (ngôn ngữ hình thức)
+
+> trong ngôn ngữ hình thức, alphabet là tập hữu hạn gồm các ký hiệu, ký hiệu là $\Sigma$ 
+
+> từ(word) + cụm cố định(fixed phrase) = từ điển (dictionary) = symbols
+
+cụm cố định gồm:
+1. phrasal verb
+2. idiom - thành ngữ 
+3. proverb - tục ngữ (kinh nghiệm dân gian)
+4. sayings - quán ngữ
+
+note: thuỷ, giáo, viên,... không thuộc $\Sigma$ tiếng việt vì nó không là từ
+
+a new book -- cụm tự do
+
+grade = bước (lớp)
+
+gradually = dần dần
+
+graduate = bước ra khỏi
+
+upgrade = nâng cấp
+
+va(trống)|cancy = chỗ trống
+
+vacuum = chân không
+
+evacuate = di tản
+
+va(trống)|cation = nghỉ dưỡng
+
+> string (câu/sequence) là một dãy hữu hạn các symbols (gồm từ và cụm từ cố định)
+
+|Formal language  | natural language |
+|---|---|
+|symbols | word/fixed phrase |
+|$\Sigma$ alphabet | dictionary |
+| string | sentence |
+
+câu lệnh
+- hệ điều hành command
+- ngôn ngữ cấp cao statement
+- assembly instruction 
+
+ngôn ngữ máy (ML)
+- $\Sigma$(ML) = {0, 1}
+- string: eg. 101011
+
+> Lực lượng (length) của string là số symbols của nó
+
+$\Sigma^n$ là tập tất cả các phần tử có chiều dài là n
+
+$]Sigma^*$ = $\Sigma^0$ hợp $\Sigma^1$ hợp ... 
+
+$]Sigma^+$ = $\Sigma^1$ hợp $\Sigma^2$ hợp ... 
+
+Một chuỗi trên $\Sigma$: x.a (concate), trong đó w là string (w $\in \Sigma^*$), a là symbol (a $\in \Sigma$)
+
+Lực lượng chuỗi nối: |x.y| = |x| + |y|
+
+BTVN: cho một chuỗi bất kỳ, kiểm tra chuỗi đó có là chuỗi trên $\Sigma$. Viết vòng lặp, kiểm tra từng symbol có thuộc $\Sigma$ không, nếu ko mình break :'>
+
+> Ngôn ngữ có 2 thứ tự (language order): 
+- chuẩn hoá (normalize)
+- dictionary (alphabet)
+
+$\Sigma^2$ = {giáo viên nghiên cứu}
+
+> Ngôn ngữ là gì?
+- là phương tiện giao tiếp (theo nhân văn)
+- là một hệ thống tín hiệu (theo kỹ thuật)
+- là một subset của $\Sigma^*$
+
+> Làm sao để xác định subset?
+
+Ngôn ngữ hình thức chỉ giải quyết được grammar và nó có algo, trong khi để giải quyết bình diện semantic ta chỉ có thể dùng heuristic 
+
+| | Grammar | Semantic |
+|-|---|---|
+|tôi ăn bài|v|x|
+|tôi ăn cơm|v|v|
+|tôi ăn rice| $\notin \Sigma$ | khỏi xét|
+|tôi cơm ăn|x|x|
+
+grammar dùng để kiểm tra câu nào đúng câu nào không, vì số lượng câu hợp lệ là vô vùng lớn
+
+> Có 4 loại văn phạm (grammar) (theo Chomsky)
+0. unrestricted grammars (UG) (văn phạm không hạn chế - không có giải thuật)
+1. context-sensitive (CSG) (cảm ngữ cảnh, ie. phụ thuộc vào ngữ cảnh - không có giải thuật) 
+2. context-free (CFG) (Văn phạm phi ngữ cảnh) - đang học 
+3. regular (RG) (Văn phạm chính quy)
+
+$G=(\N,\Sigma, P, S)$
+
+trong đó:
+
+$\N$ = non-terminal ~ phạm trù ngữ pháp gồm
+
+$\Sigma$ = terminal
+
+P = production rule
+
+S = start
+
+
+> production rule (luật sinh) gồm:
+
+S -> NP VP
+
+NP -> pro | n
+
+VP -> v_i (nội động từ không cần object) | v_t NP_i
+
+Luật:
+0. Văn phạm không hạn chế (UG)
+1. CSG
+
+NP = noun phrase
+
+VP = verb phrase
+
+> Derivation (dẫn xuất) ký hiệu là =>
+
+$L(G)={w|w \in \Sigma^*) giao (S=>^* w)}$
+
+S => ... => pronoun v_t n => I eat rice
+
+phân thành từ loại => tra từ điển 
+
+trên một cây, tồn tại ít nhất 1 đường đến đích => câu đúng
+không tồn tại đường đến đích => câu sai
+tồn tại nhiều đường => câu nhập nhằng
+
+1. S => NP VP => pro VP => (left most)
+2. (right most)
+3. (inconsistency) không được làm
+
+BTVN:
+1. I sleep
+2. I sleep rice
+3. you(pro) eat
+4. you sleep I(pro)
+5. you sleep rice
+
+
+
+
+
 
 
