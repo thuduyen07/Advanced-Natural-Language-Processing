@@ -560,7 +560,7 @@ grammar dùng để kiểm tra câu nào đúng câu nào không, vì số lư�
 > Có 4 loại văn phạm (grammar) (theo Chomsky)
 0. unrestricted grammars (UG) (văn phạm không hạn chế - không có giải thuật)
 1. context-sensitive (CSG) (cảm ngữ cảnh, ie. phụ thuộc vào ngữ cảnh - không có giải thuật) 
-2. context-free (CFG) (Văn phạm phi ngữ cảnh) - đang học 
+2. context-free (CFG) (Văn phạm phi ngữ cảnh) - đang học : bên trái là non-terminal, bên phải là terminal/non-terminal
 3. regular (RG) (Văn phạm chính quy)
 
 $G=(\N,\Sigma, P, S)$
@@ -578,11 +578,11 @@ S = start
 
 > production rule (luật sinh) gồm:
 
-S -> NP VP
+1. S -> NP VP
 
-NP -> pro | n
+2. NP -> pro | n
 
-VP -> v_i (nội động từ không cần object) | v_t NP_i
+3. VP -> v_i (nội động từ không cần object) | v_t NP_i
 
 Luật:
 0. Văn phạm không hạn chế (UG)
@@ -610,14 +610,281 @@ tồn tại nhiều đường => câu nhập nhằng
 
 BTVN:
 1. I sleep
-2. I sleep rice
+2. I(pro) sleep(v_i) rice(n)
+
+S -> NP VP -> (2a) pro VP -> (3b)
+
 3. you(pro) eat
 4. you sleep I(pro)
 5. you sleep rice
 
+## 300523
+### Derivation Trees
 
+Các luật suy diễn
+1. S -> NP VP
+2. NP -> n | pro
+3. VP -> v_i | v_t NP
 
+chữ hoa: non-terminal symbol
 
+chữ thường: terminal symbol
 
+----
+Dãy dẫn xuất của "I(pro) eat(v_t) rice(n)": s -> (1) NP VP -> (2b) pro VP -> (3b) pro v_t NP -> (2a) pro v_t n
 
+chatsonic
 
+A, B: $\N$ - non-terminal
+
+a, b: $\Sigma$ - terminal
+
+$\alpha, \beta$: $\N$ hợp $\Sigma$
+
+### Ambiguous (nhập nhằng)
+Nhập nhằng xét trên cấp độ (6 cấp độ: từ - câu - ) và bình diện (chỉ xét trên ngữ pháp)
+
+Nhập nhằng ở cấp độ từ: từ có nhiều hơn một nghĩa
+- vd: bàn
+
+Nhập nhằng ở cấp độ câu: vẽ được nhiều hơn 1 cây dẫn xuất
+- vd: list all the flights on Tuesday
+
+ngôn ngữ nhập nhằng là ngôn ngữ có chứa ít nhất một câu nhập nhằng
+
+He(pro) sits (on the chair)(PP- giới ngữ) (in the class)(PP).
+
+NP -> AP() N
+
+Backus-Naur Form (BNF) đưa ra siêu ký hiệu (metasymbol) ::= dùng trong ngôn ngữ hình thức
+
+the(det) old(adi) man(n) sat on the chair in the house
+
+### Earley parsing algo
+
+w = I(pro/a_1) eat(v_t/a_2) rice(n/a_3)
+
+Note: 
+
+.$\N$ -> expand
+
+$\alpha$. -> back tracking
+ 
+.a -> input
+
+**w = I(pro) sleep(v_i)**
+
+I_0: 
+
+S -> . NP VP, 0
+
+NP -> .n, 0
+
+NP -> .pro, 0
+
+I_1:
+
+I(pro)
+
+NP -> pro., 0
+
+S -> NP . VP, 0
+
+VP -> . v_i, 1
+
+VP -> . v_t NP, 1
+
+I_2:
+
+sleep(v_i)
+
+VP -> v_i ., 1
+
+S -> NP VP ., 0
+
+**w = I(pro) sleep(v_i) rice(n)**
+
+I_0: 
+
+S -> . NP VP, 0
+
+NP -> .n, 0
+
+NP -> .pro, 0
+
+I_1:
+
+I(pro)
+
+NP -> pro., 0
+
+S -> NP . VP, 0
+
+VP -> . v_i, 1
+
+VP -> . v_t NP, 1
+
+I_2:
+
+sleep(v_i)
+
+VP -> v_i ., 1
+
+S -> NP VP ., 0 
+
+pause j=n? (j=2, n=3)
+
+I_3:
+
+rice(n)
+
+pause algo => câu sai
+
+**w = I(pro) eat(v_t)**
+
+I_0: 
+
+S -> . NP VP, 0
+
+NP -> .n, 0
+
+NP -> .pro, 0
+
+I_1:
+
+I(pro)
+
+NP -> pro., 0
+
+S -> NP . VP, 0
+
+VP -> . v_i, 1
+
+VP -> . v_t NP, 1
+
+I_2: 
+
+eat(v_t)
+
+VP -> v_t . NP, 1
+
+NP -> .n, 2
+
+NP -> .pro, 2
+
+pause => câu sai
+
+**w = I love you**
+
+I_0: 
+
+S -> . NP VP, 0
+
+NP -> .n, 0
+
+NP -> .pro, 0
+
+I_1:
+
+I(pro)
+
+NP -> pro., 0
+
+S -> NP . VP, 0
+
+VP -> . v_i, 1
+
+VP -> . v_t NP, 1
+
+I_2: 
+
+love(v_t)
+
+VP -> v_t . NP, 1
+
+NP -> .n, 2
+
+NP -> .pro, 2
+
+I_3:
+
+you(pro)
+
+NP -> pro., 2
+
+VP -> v_t NP ., 1
+
+S -> NP VP ., 0
+
+**w = I(pro) can(aux) eat(v_t) rice(n)** 
+
+Chữa Flip Flop bằng cách xây dựng lại luật:
+
+S -> NP VP
+
+NP -> pro
+
+NP -> n
+
+VP -> v_i
+
+VP -> v_t NP
+
+VP -> aux VP => khum dc vì sẽ đánh đúng cho trường hơp "I may can could..."
+
+VP -> aux v_i
+
+VP -> aux v_t NP
+
+I_0: 
+
+S -> . NP VP, 0
+
+NP -> .n, 0
+
+NP -> .pro, 0
+
+I_1: I(pro)
+
+NP -> pro., 0
+
+S -> NP . VP, 0
+
+VP -> . v_i, 1
+
+VP -> . v_t NP, 1
+
+VP -> . aux v_i
+
+VP -> . aux v_t NP
+
+...
+
+**w = The(d/a_1) young(a) student(n) sat(v) in(p) the(d) class(n)**
+
+Bộ luật suy diễn khác:
+
+S -> NP VP
+S -> NP VP PP
+NP -> d NP3
+NP3 -> a NP3
+NP3 -> a
+
+BTVN: tìm lỗi sai trong bảng
+
+## 060623
+Rule-based NLP
+Corpus-based NLP
+- dựa trên ngữ liệu
+
+**nhắc thầy cập nhật dataset lên moodle gồm dic (từ điển), EVC, ...**
+
+NLP:
+- voice
+- text
+    - spoken (nói)
+    - written (viết)
+
+corpus = ngữ liệu = kho ngữ :
+- (một bộ sưu tập văn nói hoặc viết)
+- tập hợp mẫu(pieces) văn bản có tiêu chí về mặt ngôn ngữ
