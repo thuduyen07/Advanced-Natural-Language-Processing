@@ -1,7 +1,6 @@
 # Thu thập dữ liệu song ngữ chữ Nôm - chữ Quốc ngữ
 
-<div style="text-align: right;">
-<div style="display: flex; justify-content: right;">
+<div style="display: flex; justify-content: center;">
   <div style="background-color: #e6e6ff; padding: 10px; border-radius: 10px;">
     <a href="https://github.com/trietdang5599" style="color: #000066;">
       <strong>Triet Dang</strong>
@@ -14,7 +13,6 @@
       <strong>Duyen Nguyen</strong>
     </a>
   </div>
-</div>
 </div>
 
 
