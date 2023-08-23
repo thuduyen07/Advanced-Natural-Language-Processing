@@ -1,0 +1,129 @@
+
+533;1520;0;BÀI TỰ A ĐẠI NAM QUỐC NGỮ 
+651;2064;533;[Trang Bìa]
+740;1724;651;成泰己亥年孟秋鎸
+912;1724;740;海株子阮文珊編輯
+1114;1959;912;大南國語
+1277;1658;1114;文江多牛文山堂藏板
+1454;1360;1277;Thành Thái K ỷ Hợ i Niên Mạnh Thu Tuyên 
+1573;1805;1454;Hải Chu Tử Biên Tậ p 
+1693;1758;1573;Đạ
+1714;1903;1693;i Nam Quốc Ngữ 
+1825;1265;1714;Văn Giang Đa Ngưu Văn San Đườ ng Tàng Bản 
+2079;2130;1826.5;[tờ  1/3]
+2172;530;2079;序子曰人 為周南召南譬猶正面墙而立又曰多識鳥獸草木之名聖門之學 求
+2305;530;2172;髙遠 厭卑近以此而入道也余昔觀人改厝見使房堅固其 有亇蜘四五尾 知
+2439;530;2305;所以及觀醫書有謂人之手甲化為黃顙魚問之良醫黃顙是何魚皆 知考之本草
+2573;530;2439;註黃顙為亇蜘夫 國一國也而有䠂人齊語况我國與北國言語 同非南譯北音
+2707;530;2573;萬物何由而詳想夫倮蟲三百人為之長天地之性人為貴貴其知識也今則閑闇
+2826;2194;2707;Tự
+2944;530;2826;Tử viết nhân bất vi Chu Nam, Triệu Nam thí do chính diện tườ ng nhi lậ p, hựu viết 
+3062;530;2944;đa thức điểu thú thảo mộc chi danh, Thánh môn chi học bất cầu cao viễn, bất yếm 
+3190;530;3062.998046875;ti cận, dĩ thử nhi nhập đạo dã. Dư tích quán nhân cải thố (thác 錯) kiến sử phòng 
+3316;530;3193.5;kiên cố k ỳ trung hữu cá tri (cá trê) tứngũ vỹ, bất tri sở dĩ . Cậ p quán y thư, hữu vị
+3434;530;3316;nhân chi thủ giáp hóa vi hoàng tảng ngư. Vấn chi lương y hoàng tảng thịhà ngư, 
+3553;530;3434;giai bất tri. Khảo chi Bản Thảo chú hoàng tảng vi cá trê. Phù, Trung quốc nhất 
+3671;530;3553;quốc dã, nhi hữu Sở  nhân, Tề ngữ, huống ngã quốc dữ Bắc quốc ngôn ngữ bất 
+3788;530;3671;đồng, phi Nam dịch Bắc âm vạn vật hà do nhi tườ ng. Tưở ng phù khỏa trùng tam b
+3946;530;3789.984375;ách, nhân vi chi trưở ng. Thiên địa chi tính nhân vi quý, quý k ỳ tri thức dã. Kim tắc 
+4056;530;3946;nhàn ám, ờ  1/3]
+4269;663;4070.0;Đức Phu Tử dạy ta r ằng1 “Ngườ i chẳng đọc Chu Nam, Triệu Nam2 khác nào đứng quay mặt 
+4372;663;4269.999755859375;vào tườ ng.  Ngài cũng có dạy thêmcần biết phân biệt tên các loài chim chóc, thú vật, cây cỏ. 
+4472;663;4372;Đạo Nho không cần phải tìm tòi cao thấ p, gần xa; như vậy cũng gọi là vào Cửa Nho đó.” 
+4677;663;4472.99951171875;Lúc tr ướ c, ta có xem đám cải táng, nhìn vào bên trong, thấy quan tài bền chắc mà lại có bốn 
+4777;663;4677;năm con cá trê, không biết vì sao. Xem trong sách y học, thấy đượ c lờ i giải thích “móng tay 
+4880;663;4778.96875;của ngườ i chết biến thành cá hoàng tảng”. Hỏi các lương y “hoàng tảng là gì”, không ai biết. 
+4982;663;4880;Khảo xét sách  Bản Thảo thấy lờ i chú: “hoàng tảng là con cá trê”. 
+532;663;4982;Ôi, Trung Quốc là một nướ c vậy mà còn có “ngườ i Sở , tiếng Tề”, huống chi nướ c ta vớ i Bắc 
+634;663;532;quốc ngôn ngữ bất đồng, chẳng dùng tiếng Nam mà dịch ra tiếng Bắc thì làm sao hiểu rõ 
+735;663;634;ràng đượ c vạn vật.
+837;663;735;Ôi, trong khoảng  ba trăm loài khảa trùng3thì con người được đứng hàng đầu. Tr ờ i Dất sinh 
+939;663;837;ra tính tình4con ngườ i là quý, quý tr ọng ở  chỗ có hiểu biết vậy.Bây giờ , cứ nhàn nhã, chẳng 
+1041;663;939;học hỏi thêm thì phép tắc lờ  mờ , [tờ  1/3]
+1203;663;1041;Phụ Chú 
+1306;663;1203;1.Thuở  nhỏ, khi mớ i học chữ Nho, khởi đầu vớ i chương 學而(Học Nhi) trong tậ p 
+1439;795;1306;論語(Luận Ngữ): 
+1552;795;1447.0;子曰
+1574;1002;1552; “學而時習之,  不亦悅乎?Tử viết “học nhi thì tậ p chi, bất diệc duyệt hồ? 
+1686;771;1574; 有朋自遠方來
+1708;1415;1686;,  不亦樂乎?Hữu bằng tự viễn phương lai, bất diệc lạc hồ? 
+1820;795;1708;人不知而不慍
+1843;1415;1820;,  不亦君子乎bất tri nhi bất uấn , bất diệc quân tử hồ ? ” 
+1958;795;1843;Trướ c học chữ , k ếđó học t ừ  , sau mớ i d ịch nghĩa. 
+2079;795;1959.921875;Trong phần d ịch nghĩa, tôi dịch 子曰Khổ ng T ử  nói r ằ ng. 
+2195;795;2079;Chỗ nầy gia nghiêm sửa lại  Đứ c Phu T ử  d ạ y ta r ằ ng… 
+2340;663;2195;2.Chu Nam, Thiệu Namlà hai tập thơ Quốc Phong trong KinhThi. 
+2457;795;2354.765625;Sau đây là thiên mở đầu của mỗi tậ p: 
+2588;795;2457;• Thơ Chu Nam, thiên mở đầu, trong tổng số 11 thiên. 
+2727;951;2588;•   詩經       ⃘       ⃘•   國風• Thi Kinh • Quốc Phong
+2788;856;2727;之洲。
+2809;2056;2788;Quan quan thư cưu, tại hà chi châu. 
+2922;928;2809.5;窈宨淑女、君子好逑。
+2944;2056;2922;Yểu điệu thục nữ, quân tử hảo cầu. 
+3057;928;2944;參差荇菜、左右流之。
+3079;2056;3057;Sâm si hạnh thái, tả hữu lưu chi. 
+3191;928;3079;窈宨淑女、寤寐求之。
+3213;2056;3191;Yểu điệu thục nữ, ngụ mị cầu chi. 
+3369;928;3213;求之不得、寤寐思服。
+3391;2056;3369;Cầu chi bất đắc, ngụ mịtư phục. 
+3503;880;3391;反側。
+3525;2056;3503;Du tai du tai, triển chuyển phản tr ắc. 
+3682;928;3525;參差荇菜、左右采之。
+3704;2056;3682;Sâm si hạnh thái, tả hữu thái chi
+3816;928;3704;窈宨淑女、琴瑟友之。
+3838;2056;3816;Yểu điệu thục nữ, cầm sắt hữu chi. 
+3994;928;3838;參差荇菜、左右芼之。
+4016;2056;3994;Sâm si hạnh thái, tả hữu mạo chi
+4128;928;4016;窈宨淑女、鍾鼓樂之。
+4151;2056;4128;Yểu điệu thục nữ, chung cổ lạc chi. 
+4310;795;4151;Trên đây là năm bài thơ tuy nói về đứ c hạnh của bà H ậu phi, nhưng cố t nêu t ỏ cách 
+4414;795;4311.96875;sử a mình, t ề  gia của Văn Vương.
+4603;795;4414;•Thơ Thiệu Nam, thiên mở đầu, trong tổng số 14 thiên.
+4663;904;4603;居之。
+4684;2056;4663;Duy thướ c hữu sào, duy cưu cư chi. 
+4797;904;4684.5;御之。
+4819;2056;4797;Chi tửvu quy, bách lưỡ ng ngự chi. 
+4976;904;4819;方之。
+4997;2056;4976;Duy thướ c hữu sào, duy cưu phương chi. 
+5110;904;4997.5;將之。
+5132;2056;5110;Chi tửvu quy, bách lưỡng tương chi. 
+528;904;5132;盈之。
+549;2056;528;Duy thướ c hữu sào, duy cưu doanh chi, 
+662;904;549.5;成之。
+684;2056;662;Chi tử vu quy, bách lưỡ ng thành chi. 
+863;663;684;3.  倮蟲(khoả trùng):  倮(khoả): tr ần, không mặc quần áo;    蟲(trùng): loài sâu có chân, con 
+979;795;863;ngườ i cũng là một loài sâu có chân.
+1125;663;979;4.Tính tình: Ngạn ngữ có câu “Cha mẹ sinh con, Tr ờ i sinh tính”. Cụ Nguyễn Du có viết 
+1226;795;1125;“Thông minh vốn sẵn tính Tr ờ i…” 
+1377;663;1226;5.   閑闇(nhàn ám):    閑(nhàn)=thói quen, an nhàn;    闇(ám)=mờ  mịt. 
+1596;2130;1377;[tờ  2/3] 
+1788;530;1596;脂塞謂為之長而可貴之耶其間有旁觀博覧不掇之論説謂之匿生書主
+1948;530;1788;人用是惻然咀嚼眾㮴百氏凣眾形名號見言論一一考核或简而未
+2101;530;1948;備或註而不明亥豕纷紜亦難核正乃参考前言潜神黙記博求精縕劃劙
+2262;530;2101;冗煩先後森條委深宻宬五十類顔曰大南國語或謂我邦科宦家無此
+2415;530;2262;亦無所損何不從政教立言却於日用常行上論将奚以為夫天地之精英
+2568;530;2415;寓於物一物有一物之竒倘倉或或欵啓寡聞何以究夫物理旄頭天狗欃
+2722;530;2568;槍何星青女玄冥滕六何神香稻白稻
+2855;530;2722;chi tắc vịvi chi trưở ng nhi khả quý chi da k ỳ gian hữu bàng quan bác lãm bất 
+2974;530;2855;xuyết chi luận thuyết vị chi nặc sanh thư. Chủ nhân dụng thị tr ắc nhiên tr ớ tướ c 
+3091;530;2974;chúng lưu, sưu la bách thị. Phàm chúng hình danh hiệu kiến ngôn luận, nhất nhất 
+3211;530;3091.984375;khảo hạch, hoặc giản nhi vị bị, hoặc chú nhi bất minh “hợ i” “thỉ” phân vân diệc 
+3330;530;3211;nan hạch chính. Nãi tham khảo tiền ngôn tiềm thần mặc ký, bác cầu tinh uẩn, 
+3448;530;3330;hoạch ly nhũng phiền, tiên hậu sâm la. Điều ủy thâm mật thành ngũ thậ p loại nhan 
+3567;530;3448;viết “Đại Nam Quốc Ngữ”. Hoặc vị ngã bang khoa hoạn gia vô thử diệc vô sở  tổn. 
+3685;530;3567;Hà bất tòng chính giáo lậ p ngôn tức ư nhật dụng thường hành thượ ng luận tương 
+3804;531;3685;hềdĩ vi. Phù, thiên địa chi tinh anh ngụư vật, nhất vật hữu nhất vật chi k ỳ, thảng 
+3921;530;3804;thương hoặc hoặc khoản khải quả văn hà dĩ cứu. Phù, vật lý Mao đầu thiên cẩu. 
+4049;530;3921.99609375;Sàm thương h
+4080;1111;4049;à tinh, Thanh nữ, Huyền minh, Đằng lục hà thần, hương đạo, bạch 
+4174;530;4080;đạo. 
+4195;731;4174.5;[tờ  2/3] 
+4293;663;4195;[Bây giờ , cứ nhàn nhã, chẳng học hỏi thêm thì phép tắc lờ  mờ ], nay cứ bế cửa6, ngh ĩ  là 
+4394;663;4293;trưởng thượ ng của loại khoả trùng, là đáng quý tr ọng sao. Phải dành thờ i gian để nhìn xa 
+4496;663;4394.998046875;trông r ộng, bàn luận không ngừng, thế gọi là “sách nặc sinh”. Ngườ i chú thích sách nầy dùng 
+4597;663;4496;đó mà nghiền ngẫm, sưu tầm khắ p tr ăm họ. 
+4700;663;4597.99609375;Phàm các hình thể, tên gọi, tên hiệu của các vật đã nhìn thấy, mỗi mỗi đều đem ra khảo xét 
+4819;663;4700;từng thứ một hoặc ngườ i chép giản lượ c chưa đủ, hoặc lòi chú không rõ ràng như亥(hợ i), 
+4931;663;4819;豕
+4954;767;4931;(thỉ) hay 纷(phân), 紜(vân) cũng khó khảo hạch chính xác đượ c, bèn tham khảo ngườ i 
+5069;663;4954;xưa, tìm ghi chép trong sách thần tích lặng lẽ ghi r ộng tìm vẻđẹ p sâukín, cắt bỏ những tạ p 

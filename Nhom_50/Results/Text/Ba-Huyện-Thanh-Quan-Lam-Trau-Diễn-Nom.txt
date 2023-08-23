@@ -1,0 +1,86 @@
+
+419;1147;0;Bà Huyện Thanh Quan 
+459;2505;419;District Chief’s Wife
+653;2007;459;Làm "trâu" 
+871;436;653;Quan Huyện Thanh Quan đi vắng, bà Huyện thay ch ồng thăng đường . Có một ông đỗ Hương 
+1007;436;871;cố ng tới xin mổ trâu để giỗ bố . Lúc bấ y giờ mùa màng thấ t bát, Tri ều đ ình ra lệnh hạn chế  mổ
+1144;436;1007;trâu trong nhữ ng dịp tế  lễ khao vọng, để phát triển việc canh nông. Bà Huyện ng ần ngừ , 
+1280;436;1144;như ng trước sự  năn nỉ của ông Cố ng, và cũng cảm động trước hiế u hạnh của ông. Bà hóm 
+1417;436;1280;hỉnh c ầm bút phê vào đơn: 
+1606;None;1417;Ngườ i ta thì chẳng đượ c đâu 
+1743;None;1606;"Ừ  " thì ông Cố ng làm trâu thì làm. 
+2022;1580;1743;時 庄 特 兜 唹 時 翁 貢   時 
+2288;436;2022;Biế t Bà Huyện dùng chữ  ngh ĩ a để lỡm mình, như ng đã được như  sở nguyện, ông Cố ng vui vẻ
+2425;436;2288;ra v ề. 
+2576;1256;2425;Xuân Bấ t Tái Lai. 
+2601;2148;2576;
+2805;436;2601;Nghe nói có bà tên ThịĐào vì ch ồng đi xa lâu không v ề phải cảnh cô đơn đế n 
+2942;436;2805;huyện đường kiện cáo. Bà Huyện phê cho rằng: 
+3154;512;2942;Phó cho con ả ThịĐào 
+3176;2199;3154; Entrust to the girl Thị Đào 
+3291;512;3176;Lênh đênh mặt nước cắm sào đợi ai 
+3312;2218;3291;Why floating and planting a pole, to whom waiting for 
+3427;512;3312;Chữ  rằng Xuân bấ t tái lai 
+3449;2199;3427;e back 
+3563;512;3449;Cho v ề kiế m chút kẻo mai nhỡ già. 
+3585;2199;3563;ething before getting old 
+3717;None;3585;朱昆妸氏桃
+3869;None;3717;湎待埃
+4023;967;3869;浪春再來
+4172;None;4023;朱衙劎矯埋
+4400;550;4173.0;NOTE: Vì chuyện này, ngườ i chồng tr ở  về kiện tụng, quan Huyện mất chức. 
+4568;640;4400;Line 4: Bản Nôm chép sai chữ衛(vệ ‘to protect’
+4602;2489;4568;→về ‘to return’) ra chữ衙(nha ‘office’). 
+4736;550;4602;Nguồn ‘Nôm source’:  Ðại Nam Ðố i Liên Thi T ậ p大南對聯詩輯
+4887;550;4736;Chữ  Nôm: 
+5036;853;4887;CLASSIFICATION  Phân loại các chữ  Nôm : 
+5162;1048;5038.625;Borrowings by sound and meaning Chữ  mượ n âm và nghĩ a : 
+5291;1050;5177.9375;付妸氏桃春不再來
+5435;1048;5291;Borrowings by sound only Chữ  chỉ  mượ n âm : 
+5564;1118;5450.9375;朱chu ‘red’
+5588;1796;5567.5;cho ‘to, preposition’ 
+5688;1118;5588;湎
+5708;1270;5688;miện ‘flushed with drink, drunk’ mặt  ‘surface’ 
+5844;1255;5720.0;[see also Chữ  sáng t ạo trùng vớ i chữ  Hán] 
+336;1118;5860.46875;渃
+356;1270;336;nhượ c “river’s name”nướ c ‘water’ 
+472;1118;368.75;埃
+493;1270;472;ai ‘dust’ai ‘who’ 
+609;1118;501.0;浪
+629;1255;609;lãng ‘wave’r ằ ng  ‘to say that’ 
+745;1118;641.75;㯲 
+766;1255;745;cấm ‘wooden pole, a frame’cắ m ‘to plant’ 
+882;1118;778.0;朱
+902;1270;882;chu ‘red’cho ‘to allow, verb’ 
+1018;1118;910.5;衛
+1038;1270;1018;vệ ‘to guard, protect’
+1073;2100;1038;→ề ‘to return’
+1155;1118;1073;劎
+1175;1270;1155;kiếm ‘sword’ kiế m ‘to look for’ 
+1291;1118;1187.75;矯
+1311;1270;1291;kiểu‘unnatural’k ẻo ‘or’ 
+1428;1118;1323.75;埋
+1448;1267;1428;mai‘to bury’mai ‘tomorrow, soon’ 
+1584;1040;1456.0;only Chữ  chỉ  mượ n nghĩ a : 
+1700;1118;1600.46875;待
+1721;1240;1700;(đãi = đợ i ‘to wait’) đợ i ‘to wait’ 
+1911;982;1733.0;• Character Marks Chữ  có d ấ u nháy, biế n âm Hán Việt ra âm Nôm: 
+2021;1255;1911;Sino-Viet 
+2055;1654;2021;→ Nôm 
+2165;1270;2055;冷 (lãnh) 
+2207;1652;2169.0;→lênh
+2317;1270;2207;丁 (đinh) 
+2359;1657;2322.875;→đ ênh 
+2456;1277;2359;女(nữ) 
+2498;1656;2461.875;→nhỡ 
+2600;1040;2498;Characters newly created chữ  sáng t ạo: SIGNIFIC + PHONETIC  
+2749;1619;2614.0;
+2873;1040;2749;Chữ  sáng t ạo trùng hợ  p vớ i chữ  Hán : 
+3022;1596;2888.75;[ 氵SIGNIFIC + 面SIGNIFIC] dupplicating 湎(miện ‘drunk’) 
+3174;550;3022;Comment: s the 
+3310;1019;3174;
+3461;1042;3310;sharing the radical thủ y ‘water’ 湎渃(mặt nướ c) is beautiful, normally  or is 
+3613;1042;3477.46875;used with SIGNIFIC 面 (diện = mặt ‘face, surface’) and the PHONETICs 末(mạt) or 
+3757;1042;3622.75;密(mật).Both 8-lines show a perfect balance 4-4, essence of the Nôm poetry: 
+3909;1708;3763.4375; 湎渃/待埃
+4060;1715;3914.0;朱衛劎/矯埋

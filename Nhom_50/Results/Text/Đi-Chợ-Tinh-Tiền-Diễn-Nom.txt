@@ -1,0 +1,53 @@
+
+370;2005;0;QUAN TIỀN 
+498;None;370;Ngày xưa, ở nước ta, hệ thống tiền tệ trong dân gian r ất phức tap, thập phân (một quan đổi đượ c 
+648;436;511.125;mườ i ti ền) và luc thập phân (một ti ền ăn sáu mươ i đồng ) lẫn lộn . 
+771;None;648;Các bà các cô đi chợ, tính toán người vầy kẻ khác. 
+907;436;771;Thử nghe: Lần khân như  chú bán gà 吝 巾 如 注 半 
+1057;981;919.25;Ti ền r ưỡ i không bán, bán ba mươ i đồng 錢 空 半 半   銅
+1180;436;1057;Bài “ Đi chợ  tính tiề n” sau đây, thuộc loại V ăn Chươ ng truy ền khẩu, cho thấy cách tính tiền lẫn lộn 
+1316;None;1194.0;có đồng, tiền và quan. 
+1452;436;1316;Chúng tôi trích tập V ăn Chươ ng truy ền khẩu, soạn bài đọc thêm cho lớp Giới Thiệu chữ Nôm, 
+1589;None;1465.5625;Cấp 2; phần Từ Vựng không chép lại ởđây. 
+1840;924;1589; 錢
+2048;587;1840;1. 沒 貫 錢 卒 忙  
+2165;709;2048;娘  仍 之 麻 併 庄 
+2316;709;2165;祱先   錢 
+2467;709;2316.75;錢    貝  銅 
+2654;587;2468.75;5. 踷 吏   銅 槁
+2771;709;2654;錢 蔗 蒌  銅
+2922;709;2771.9375;固 之 麻 併 庄 通
+3074;709;2922;錢     銅 茶 鮮
+3226;709;3074.5;  銅  払 
+3412;587;3226;10.   銅 蜜   銅 鐄
+3530;709;3412;  渃    
+3681;701;3530;    矯 払 狐 疑 
+3833;701;3681;   銅    
+3984;701;3833; 銅 艿桎 軫 時 沒 貫
+1866;2599;3984; Đi chợ tính tiền
+2025;None;1880.0;ột quan tiền tốt mang đi, 
+2177;None;2025;Nàng mua những gì mà tính chẳng ra. 
+2328;None;2177;Thoạt tiên mua ba tiền gà, 
+2480;None;2328;Tiền r ưỡi gạo nếp với ba đồng tr ầu. 
+2632;None;2480;5. Tr ở lại mua sáu đồng cau, 
+2783;None;2632;Tiền r ưỡi miếng thịt, giá rau mười đồng. 
+2935;2543;2783;Có gì mà tính chẳng thông? 
+3086;None;2935;Tiền r ưỡi gạo tẻ, sáu đồng chè tươi. 
+3238;None;3086;Ba mươi đồng r ượu, chàng ơi, 
+3389;None;3238;mươi đồng mật, hai mươi đồng vàng. 
+3541;None;3389;Hai chén nước mắm rõ ràng, 
+3692;None;3541;Hai bảy mười bốn kẻo chàng hồ-nghi. 
+3844;None;3692;Hai mươi mốt đồng bột nấu chè, 
+3996;None;3844;Mười đồng nải chuối, chẵn thì một quan.
+4276;436;3996;Thể Văn: 
+4395;None;4276;Mười bốn câu thơ 6-8, với lối bắt vần lẫn lộn nhiều loại. 
+4532;None;4395;Vần của một chữ không kể phụ âm đầu và dấu chữ chữđó, như vần của “tr ầu” là “au”, bắt vần 
+4684;436;4542.65625;chính “au” của “cau”. 
+4820;436;4684;Tr ườ ng hợ  p không phải vần chính, nhưng nghe thuận tai, chấ p nhận đượ c, gọi là vần thông , như
+4956;436;4820;vần “i” và “e”, [hai câu 12-13-14] của nghi, thì và chè. 
+5077;436;4956;Thông thường, v ần chính như sau: 
+5214;None;5087.5;“ chữ cuối câu 6 bắt vần chữ sáu câu 8, 
+5350;None;5214;chữ cuối câu 8 bắt vần chữ cuối câu 6 kếđó “ 
+5486;None;5350;Một tr ường hợp ngoại lệ: 
+5623;None;5486;chữ cuối câu 6 bắt vần chữ bốn câu 8 : 
+5771;701;5623;Một quan tiền tốt mang đi, Nàng mua những gì mà tính chẳng ra [cc.1-2]. 

@@ -1,0 +1,109 @@
+
+328;1556;0;Lê Văn  Đặng GIỚI THIỆU CHỮ NÔM 
+5741;2127;328;trang 1 
+592;545;5741;[1a] 
+723;1952;592;啓定辛酉夏 
+905;1709;723;女子須知
+1234;1830;905;[河内]福安藏板
+1427;1791;1234;Khải  Định Tân Dậu (1921) 
+1545;1901;1427;Nữ Tử Tu Tri 
+1705;1750;1545;[Hà Nộg bản 
+1818;545;1705;V ĂN B ẢN 
+1931;681;1818;Bản Nôm khắc in năm Khải  Định Tân Dậu (1921) gồm 8 tờ
+2066;545;1931;chữ Nôm [1b-8a], trang cuối [8b] ghi : 天寶Thiên Bửu Lâu, tàng tr ữ nơi Thư Viện Việt 
+2182;545;2066;Nam, ký số 1939. 
+2295;681;2182;Mỗi trang chữ Nôm gồm 6 dòng, mỗi dòng ghi hai câu theo thể song thất lục bát (168 
+2408;545;2295;câu 7-7-6-8) ; có 2 liên thiếếu dòng 6-8, ý ngh ĩ a có vẻ liên tục, 
+2521;545;2408;có thể không do lỗi của người sao chép. 
+2634;681;2521;Bản Unicode đối chiếu Nôm Quốc ngữ, có ghi số trang trong ngoặc vuông [ ] và số câu 
+2747;545;2634;nơi trang đó. 
+2860;681;2747;Phần PHỤ LỤC chép lại phóng ảnh 8 tờ bản in để tiện việc tham khảo. 
+3019;545;2860;TÓM LƯỢC 
+3132;681;3019;Thơ diễn Nôm thể song thất lục bát (168 câu 7-7-6-8) ghi lời tâm sự của người con gái 
+3245;545;3132;khuyên r ăn phận nữ nhi liễu yếu đào thơ khi đến tuổi cài trâm phấn tóc, yên bề gia thất phải 
+3358;544;3245;giữđạo “công dung ngôn hạnh” bất kể là nơi phú quý hay nghèo khó, để giữ tiếng thơm cho 
+3472;544;3358;cha mẹđã bõ công dưỡng dục. 
+3630;545;3472;B ẢN UNICODE
+3789;545;3630;[1b] 001-012 
+3942;545;3789;Nào những bậc phấn son phận gái 仍偪粉分
+4099;545;3942;Xin nghe em phân giải lời nầy 吀㛪分觧尼
+4256;545;4099;Liễu bồ hổ phận thơ ngây1栁蒲虎分疎
+4414;545;4256;Tủi2 câu thập nữ cho rày viết vô3勾十女朱曰無
+4577;545;4414;Ơn sinh dưỡng tựa hồ non Thái 㤙生養似乎泰
+4736;545;4577.9375;Róc4 thịt xương khó nỗi báo đền 捔昌庫報
+4900;545;4736;Hổ cũng nam tử bực trên 虎拱男子偪
+5057;545;4900;Hiếu trung sẵn nết khôi nguyên r ạng nhà 孝忠産湼魁元
+5214;545;5057;Nên tr ảđược công cha ngh ĩ a mẹ者特功吒媄
+5371;545;5214;Hội thanh bình vui vẻ giàu sang5清平
+5528;545;5371;Còn mình là bậc nữ nương 群偪女娘
+5853;1794;5528;Bài  Đọc Thêm Cấp 2 & 3 
+328;1556;5853;Lê Văn  Đặng GIỚI THIỆU CHỮ NÔM 
+5741;2127;328;trang 2 
+620;525;5741; Đã thua thua cả mọi đàng tức thay 㐌輸輸竒每塘息台
+794;545;620.96875;[2a] 013-024 
+947;545;794;Trai thường được6đêm ngày dưới gối 常待
+1090;720;947;7 hai thân đủ thức trân cam 蜍親式珍甘 Thờ
+1261;545;1103.625;Còn mình hổ phân hồng nhan 群虎分紅顔
+1418;545;1261;Bởi chưng Nguyệt Lão đa đoan định phần 蒸月老多端定分
+1576;545;1418;Hễđến tuổi cài trâm phấn phát 矣旦歲掑簮粉髮
+1733;545;1576;Phải định bề gia thất tây riêng 沛定皮家室西
+1890;545;1733;Tài hay khôn khéo muôn8 ngàn 才咍坤窖 
+2047;545;1890;Thế nào cũng phải là phường nữ nhi 世拱沛坊女兒
+2204;545;2047;Việc gì cũng trông về chồng cả役夷拱竒
+2360;545;2204;Ở làm sao cho hả bụng chồng 於牢朱䏾
+2535;545;2361.875;Cửa nhà muôn việc phụ9 trung (trông) 中 
+2697;545;2535;Sao cho ngôn hạnh dung công đủđều 牢朱言行容工覩調
+2870;545;2697;[2b] 025-036 
+3032;545;2870;Dẫu gặp chốn giàu10 nghèo cũng vậy 唒﨤准拱丕
+3193;525;3032; Đạo thâm tình lẽ phải biết ơn 道深情沛别恩
+3351;545;3193.96875;Muốn11 cho cha mẹ lại thơm 朱吒媄來 
+3507;525;3351; Đức hiền hai chữ quý hơn ngàn vàng 䝨貴欣鐄
+3665;545;3507.9375;Cha mẹ mình mình thường chua xót 吒媄常朱㤕
+3822;545;3665;Cha mẹ người người ắt yêu đương 吒媄必妖當
+3979;545;3822;Muốn cho vẹn được đạo thường 朱院特道常
+4136;545;3979;Công cô hai đấng phải thương như chồng 公姑沛傷如
+4294;545;4136;Dẫu gây dựng muôn11a chuông ngàn tứ唒闹鍾駟 
+4458;545;4294;Hoặc sắc tài cũng chớ có kiêu 或色才拱固驕
+4616;545;4458;Thế gian nhầm nhặt đã nhiều 世間抇㐌
+4780;545;4616;Bởi chưng ngu dốt kiếm đường tính12 suy 蒸愚卒塘性推 
+4953;545;4780;[3a] 037-048 
+5105;545;4953;Ở với13 chồng tr ăm bề yêu dấu 於皮妖
+5263;545;5105.9921875;Lại nuôi con quý báu hơn vàng 吏餒貴宝欣鐄
+5420;545;5263;Trong ngoài tr ăm việc đảm đang 中外役擔当
+5587;545;5420;Thế mà một chốc14đạo thường đơn sai 世麻道常单差
+5853;1794;5587;Bài  Đọc Thêm Cấp 2 & 3 
+328;1556;5853;Lê Văn  Đặng GIỚI THIỆU CHỮ NÔM 
+5741;2127;328;trang 3 
+621;545;5741;Cha mẹ chồng bỏ hoài bỏ phí 吒媄費
+778;545;621;Nỡ phụ phàng chẳng quý chẳng thương 女負傍庄貴庄傷
+935;545;778;Coi xem như thế người thường 䀡如体常
+1092;545;935;Xui chồng ăn ở những đường bạc đen 吹咹於仍塘泊顛
+1259;545;1092;Lại hờn giận lắm phen gắm gắt15吏恨畨
+1424;545;1259;Coi như người có kết oán riêng 如固結怨
+1581;545;1424;Nhác trông cảnh thế lòng phiền 景世煩 
+1738;545;1581;Gái đâu có gái ngu hèn16 thế ni 固愚䝨世
+1911;545;1738;[3b] 049-060 
+2064;545;1911;Việc rõ ràng như bày tranh vẽ役如排争
+2221;545;2064;Cố làm sao chẳng ngh ĩ  chẳng suy 故牢庄庄推 
+2378;545;2221;Lấy ta vềđể làm chi 些扺之 
+2535;545;2378;Sinh con nở cái ích gì biết không 生丐益夷别空
+2692;545;2535;Lấy ta để thay chồng sớm tối 些扺台最
+2849;745;2692;công cô đáp đổi trân cam 蜍公姑答树珍甘 Thờ
+3006;545;2849;Sinh con khó nhọc muôn vàn 生庫弱萬
+3164;545;3006;Mong cho cả trái thừa hoan tuổi già 懞朱奇承歳 
+3321;520;3164; Ai ngờ lại hóa ra họa trái 埃吏化祸
+3478;545;3321;Khiến mẹ cha đau đớn vì con 遣媄吒疸為 
+3635;545;3478;Khi chưa kết định hôn nhân17欺結定婚 
+3792;520;3635; Anh em cha mẹ hãy còn sum vui 㛪吒媄矣群森
+3965;545;3792;[4a] 061-072 
+4118;545;3965;Khi có vợ về thì phận dẽ欺固分圯 
+4275;545;4118;Khiến anh em cha mẹ lìa nhau 遣㛪吒媄離
+4432;545;4275;Than ôi tạo hóa cơ cầu 嘆唹造化机求 
+4588;525;4432; Đời nay chẳng có một dâu đức hiền 庄固妯䝨
+4745;525;4588.96875; Ấy một tội lưu truyền vạn đại 意罪流傳代
+4904;545;4746.984375;Bắc cầu nô hóa lụy biết sao 球奴化别牢 
+5068;545;4904;Mình đà tr ước ở lung lao 陀畧於篭牢
+5235;545;5068;Dâu mình sau lại rêu18 rao cự mình 妯吏交拒 
+5396;545;5235;Muốn cho được lưu danh muôn thuở闷朱特留名
+5553;545;5396;Nối thánh hiền nên bỏ chua ngoa 䟜圣䝨朱訛 
+5853;1794;5553;Bài  Đọc Thêm Cấp 2 & 3 

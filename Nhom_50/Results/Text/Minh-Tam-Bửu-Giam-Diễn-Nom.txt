@@ -1,0 +1,162 @@
+
+232;972;0;《明心寶鑒》
+486;992;232;" Minh Tâm Bửu Giám " 
+610;965;486;[  明] 范立本  輯
+643;1718;610;(1393)
+775;1096;643; 目錄
+848;None;775;Mục lục 
+1013;265;848;1.  明心寶鑒序Minh Tâm Bửu Giám Tự
+1148;265;1013;2. 重刊  明心寶鑒序Trùng san Minh Tâm Bửự
+1310;265;1148;3.
+1216;361;1310;二
+1250;494;1216;十篇
+1296;None;1250;Nhị thập thiên
+1462;464;1296;♦繼善 第一 (47 條) Kế Thiệnđệ nhứt (47 điều)
+1603;464;1465.5;♦天理 第二 (19 條) Thiên Lýđệ nhị (19 điều)
+1745;464;1605.5;♦ 順命 第三 (16 條) Thuận Mệnhđệ tam (16 điều)
+1886;464;1748.5;♦孝行 第四 (19 條) Hiếu Hạnhđệ tứ (19 điều)
+2028;464;1890.375;♦正己第五 (117 條) Chánh Kỷđệ ngũ (117 điều)
+2169;464;2030.0;♦安分第六 (18 條) An Phậnđệ lục (18 điều)
+2311;464;2172.75;♦ 存心第七(83 條) Tồn Tâmđệ thất (83 điều)
+2452;464;2314.0;♦戒性第八(15 條) Giới Tínhđệ bát (15 điều)
+2594;464;2455.75;♦  勸學第九 (23 條) Khuyến Họcđệ cửu(23 điều)
+2735;464;2597.5;♦ 訓子第十(17 條) Huấn Tửđệ thập(17 điều)
+2877;464;2738.75;♦ 省心 第十一(250 條) Tỉnh Tâmđệ thập nhứt(250 điều)
+3018;464;2880.0;♦立教第十二 (17 條) Lập Giáođệ thập nhị(17 điều)
+3160;464;3021.75;♦ 治政第十三 (22 條) Trì Chánhđệ thập tam(22 điều)
+3301;464;3162.0;♦ 治家第十四 (16 條) Trì Giađệ thập tứ(16 điều)
+3442;464;3303.0;♦安義第十五(5 條) An Ngh ĩ ađệ thập ngũ(5 điều)
+3584;464;3445.75;♦ 遵禮第十六 (21 條) Tuân Lễđệ thập lục(21 điều)
+3725;464;3586.0;♦ 存信第十七 (7 條) Tồn Tín thiên đệ thập thất(7 điều)
+3867;464;3728.75;♦ 言語 第十八(25 條) Ngôn Ngữđệ thập bát(25 điều)
+4008;464;3869.0;♦交友第十九 (24 條) Giao Hữuđệ thập cửu(24 điều)
+4150;464;4011.75;♦ 婦行 第二十 (8 條) Phụ Hạnhđệ nhị thập(8 điều)
+304;3183;4153.5;4.Tân khắc《新刻前賢切要明心寶鑒》
+408;None;304;" Tân Khắc Tiền Hiền Thiết Yếu Minh Tâm Bửu Giám " 
+522;3183;408;5.Phụ Khảo 
+630;4348;522;1
+701;3383;630;《明心寶鑒》序
+774;None;701;"Minh Tâm Bửu Giám" Tự
+983;3183;774;夫為人在世生居中國稟三才之德為萬物之
+1156;3117;983;聖賢
+1328;3183;1156;垂教而從教者達道為先非博學無以廣知不
+1501;3051;1328;稀昔
+1674;3117;1501; 夏禹王聞善言猶然下拜何況凡世人乎
+1888;None;1674;Phù vi nhơn tại thế , sanh cư Trung quốc , bẩm tam tài chi đức , 
+1998;None;1888;vi vạn vật chi linh , cảm thiên địa phúc tái , nhựt nguyệt chiếu 
+2109;None;1998;hủy thổ . Phụ mẫu sanh thân , thánh hiền thùy giáo . Nhi 
+2219;None;2109;tùng giáo giả , đạt đạo vi tiên . Phi bác học vô d ĩ  quảng tri , bất 
+2328;None;2219;minh tâm vô d ĩ  kiến tính . Tuy hữu sinh nhi tri chi giả , cận giả
+2438;None;2328;hi . Tích Hạ Vũ Vương văn thiện ngôn , do nhiên hạ bái , hà 
+2549;None;2438;huống phàm thế nhơn hồ ? 
+2098;3313;2549;1 
+2318;5413;2098;2
+2671;3316;2318;1 皇王,  西班牙高母羨（Juan Cobo）1592 年 譯本
+2816;3316;2679.25;[Beng Sim Po Cam ; Espejo rico del claro corazón, 以下
+2911;3265;2816; 簡稱
+2937;3522;2911; “ 高譯本”]  作“ 皇上”. 
+2957;4422;2937;Hoàng Vương , Tây Ban Nha 
+3076;None;2957;Cao Mẫu Tiện [Juan Cobo ] 1592 niên dịch bổn [Beng Sim Po 
+3186;None;3076;Cam ; Espejo rico del claro corazón , d ĩ  hạ giản xưng " Cao 
+3296;None;3186;Dịch Bổn "] tác " Hoàng Thượng " . 
+3418;3316;3296;2  近者, 高譯本作“ 近世”. cận giả , Cao Dịch Bổn tác " cận 
+3547;3316;3426.75;thế " . 
+3841;3117;3547;為善
+4013;3051;3841;品別
+238;199;4013;行甚
+410;265;238;多所以今人覽觀習行者少況今學者不過學
+583;265;410;其文藝為先未有先學德行為本及今勸世多
+756;133;583;昔賢
+928;265;756;文等書亦乃於世流傳
+1143;None;928;Nẵng cổ thánh hiền di chí kinh thư , thiên ngôn vạn ngữ chỉ  yếu 
+1253;None;1143;Giáo nhơn vi thiện . Sở d ĩ  lập nhơn ngh ĩ a lễ trí tín chi pháp , phân 
+1363;None;1253;quân tử tiểu nhơn chi phẩm , biệt hiền ngu chi giai , biện thiện ác 
+1473;None;1363;chi dị . Cái vi kinh thư gia ngôn thiện hành thậm đa , sở d ĩ  kim 
+1583;None;1473;nhơn lãm quan tập hành giả thiểu . Huống kim học giả , bất quá 
+1693;None;1583;học kỳ văn nghệ vi tiên , vị hữu tiên học đức hạnh vi bổn . Cập 
+1803;None;1693;kim khuyến thế , đa khuyến tu vật ngoại chi thiện nhơn, thiểu 
+1913;None;1803;khuyến vi đương hành chi thiện sự. Kỳ tích hiền văn đẳng thư , 
+2023;None;1913;diệc nãi ư thế lưu truyền . 
+1133;2545;2023;3
+2255;397;1133;3  只要,  高譯本作“ 只欲”. chỉ  yếu , Cao Dịch Bổn tác " chỉ 
+2384;397;2263.25;dục " . 
+2568;265;2384;今之好聽善言君子觀以為奇罔知古今之要
+2741;199;2568;常行
+2913;199;2741;行夫
+3085;199;2913;衰似
+3258;199;3085;念中
+3431;265;3258;平非橫
+3603;199;3431;無疑
+3776;133;3603;  所為焉從差誤矣
+3949;397;3776;洪武二十六年歲次癸酉二月既望武林
+238;3250;3949; 後學范立本序
+557;None;238;Kim chi hiếu thính thiện ngôn , quân tử quan d ĩ  vi kì , võng tri cổ
+667;None;557;kim chi yếu ngữ , thị d ĩ  sử nhơn mê hoặc kỳ tâm , thiểu dục văn 
+777;None;667;thánh hiền nhựt dụng thường hành chi yếu đạo . D ĩ  trí bất khẳng 
+887;None;777;tồn tâm thủ phân , cường vi loạn tác hồ hành . Phù vi thiện ác , 
+997;None;887;họa phúc báo ứng chiêu nhiên . Phú quý bần tiện , thành bại hưng 
+1107;None;997;suy tự mộng , thời khắc tu phòng bất tr ắc , triêu tịch như lý bạc 
+1217;None;1107;băng . Thường tồn nhứt niệự nhiên 
+1327;None;1217;v ĩ nh tức , tồn ư kỳ tâm , tự nhiên ngôn hành tương cố , quán 
+1437;None;1327;xuyến vô nghi , sở vi yên tùng sai ngộ h ĩ  ? 
+1207;5057;1437;4
+1547;None;1207;Hồng Vũ nhị thập lục niên tuế thứ Quý Dậu (1393)nhị
+1657;None;1547;nguyệt ký vọng Vũm 5
+1767;None;1657;Hậu học Phạm Lập Bổn Tự. 
+1999;3316;1767;4 非橫: 高譯本作“ 飛橫”. phi hoành 非橫 : Cao Dịch Bổn tác 
+2137;3377;2014.9375;"phi hoành 飛橫". 
+2256;3313;2137;5 武林: 舊指杭州Vũ Lâm : cựu chỉ  Hàng Châu.
+286;1430;2270.875;2 
+356;796;286; 重刊《明心寶鑒》序
+566;None;356;Trùng san "Minh Tâm Bửu Giám" Tự
+749;199;566;曰明
+922;199;749;明心
+1094;199;922;明而
+1267;199;1094;通是
+1439;199;1267;而理
+1612;199;1439;人之
+1784;265;1612;洗濯之心以去惡如沐浴其身以去垢故銘其
+1957;199;1784;之蘊
+2129;265;1957;奧其義惟在明善復初窮理盡性而有日新之
+2302;265;2129;益其明心得不因此而明焉予平生珍愛是書
+2474;265;2302;於侍御之暇朝夕披覽其所喜者字句立意多
+2647;265;2474;以忠孝為先但其中文字多舛遂播正拾遺捐
+2820;199;2647;矣其
+2992;265;2820;於世教未必無小補云
+3165;530;2992;大明嘉靖歲次癸丑仲秋上浣之吉
+3337;530;3165;守庵曹玄序
+3546;None;3337;Thườăn giám năng chiếu vật nhi nghiên xuy vô hoặc di dã . " 
+3657;None;3546;Úc ly tửết : " Minh giám chiếu đảm , bất khải long liêm chi 
+3766;None;3657;nhan . " Kim d ĩ  giám danh thư , nhi hữu minh tâm chi ích , bất vị
+3876;None;3766;chi bảo nhi hà tai ? Tuy nhiên giám hữu chiếu đảm chi minh nhi 
+3986;None;3876;long liêm chi nhan thượng vưu bất khải , thẩn năng minh kỳ tâm 
+4097;None;3986;hồ ? Ô hô ! Thông thị thuyết giả , khả vị tri kỳđạo h ĩ  . Hà dã ? 
+275;None;4097;Giám cố khả d ĩ  chiếu hình , nhi lý thượng khả d ĩ  minh tâm , chánh 
+385;None;275;Thang chi bàn minh chi ý . Hữu viết : Thang d ĩ  nhơn chi tẩy tr ạc 
+495;None;385;chi tâm d ĩ  khứ ác , như mộc dục kỳ thân d ĩ  khứ cấu , cố minh kỳ
+604;None;495;bàn . Kim thư danh "Bảo Giám" , thị tập quần thánh chi đại thành , 
+715;None;604;tụy chư hiền chi uẩn áo , kỳ ngh ĩ a duy tại minh thiện phục sơ , 
+825;None;715;cùng lý tận tính , nhi hữu nhựt tân chi ích , kỳ minh tâm đắc phủ , 
+935;None;825;nhân thử nhi minh yên . Dư bình sanh trân ái thị thư , ư thị ngự
+1044;None;935;chi hạ , triêu tịch phi lãm , kỳ sở hỉ  giả , tự cú lập ý , đa d ĩ  trung 
+1155;None;1044;hiếu vi tiên .  Đãn kỳ Trung văn tựđa suyễn , toại bá chánh thập 
+1265;None;1155;di , quyên bổng tẩm tử d ĩ  quảng kỳ truyện , tỉ  nhơn đồng quy vu 
+1375;None;1265;trung hiếu chi vực h ĩ  . Kỳư thế giáo vị tất vô tiểu bổ vân . 
+3536;557;1375;6
+3646;567;3536;7
+1484;None;3646; Đại Minh Gia T ĩ nh tuế thứ Quý Sửu (1553) tr ọng thu 
+1594;3448;1484;thượng hoán (10 ngày đầu trong tháng) chi cát , 
+1704;None;1600.125;Thủ Am Tào Huyền tự. 
+1941;3316;1704;6  嘗,  口部, 唐韻,市羊切, 音常, 曾也.
+2082;3316;1941;7   明劉基作. 文章短小, 多為寓言.Minh Lưu Cơ tác . 
+2206;None;2093.375;Văn chương đoản tiểu , đa vi ngụngôn. 
+2411;3265;2206; 附註: 
+2573;3316;2411;▪  明心寶鑒舊鐫刻版有三: 
+2680;3449;2573; 初版, 
+2726;3810;2680;1393 年
+2814;3449;2726; 重刊, 
+2860;3810;2814;1553 年
+2948;3449;2860; 新刻, 
+2994;3810;2948;1621 年
+3116;3316;2994;▪士載先生亦鐫刻一版在
+3142;4436;3116;SAIGON, 1889 年.

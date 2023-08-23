@@ -1,0 +1,103 @@
+
+660;None;0;Trích “Văn Học Chữ Nôm”, Lê Văn  Đặng soạn (sắp xuất bản)
+819;None;660;CÁC TẬP THƠ  HỒ XUÂN HƯƠ NG
+935;None;819;Trong các tậ p thơ  sau đây, ngoài Thơ  Hồ Xuân Hươ ng, 
+1037;None;935;còn có các Tác Gia Khác chép lẫn lộn 
+1253;735;1037;國音詩選,春香遺稿. Quốc Âm Thi Tuyển,
+1357;1571;1253; Xuân H ươ ng Di C ảo (1914). 
+1578;779;1357;泛舟玩月 PHIẾM CHU NGOẠN NGUYỆT
+1712;663;1583.25;河東帶渃冲漂 Hà Ðông một dải nướ c trong veo
+1846;663;1718.125;朗蕩船情煮 Lãng đãng thuyền tình chở  nặng chèo
+1981;663;1851.3125;㳥濡沁 Gợ n sóng nhấ p nhô tăm cá lội
+2113;663;1985.375;印執招 In dòng chấ p chớ i mảnh tr ăng treo
+2247;663;2119.3125;悶㵢詩麻嘆咀 Muốn trôi thơ  lá mà than thở 
+2380;663;2253.1875;沛摱信氷㡳習耀 Phải mượ n tin băng để tậ p tành
+2516;663;2386.125;添渃 Cây cỏ thêm buồn lòng nướ c cũ
+2648;663;2520.375;愛㤙冷别包饒 Ái ân lạnh lẽo biết bao nhiêu 
+2884;805;2654.1875;哭   KHÓC CHỒNG LÀM THUỐC
+3023;663;2889.71875;永永㗂哭夷 Văng vẳng tai nghe tiếng khóc rì, 
+3157;663;3029.25;傷沛哭絲絲 Thươ ng chồng nên phải khóc tì ti.
+3292;663;3163.25;嗷妾味甘草  Ng ọt ngào thiế p nhớ  mùi cam thảo, 
+3425;663;3298.25;咳噔払喂未桂枝 Cay đắng chàng ôi vị quế chi.
+3558;663;3430.25;石乳陳皮炒底吏 Thạch nhũ tr ần bì sao để lại, 
+3692;663;3564.125;㱕身蓮肉浸Quy thân liên nhục tNm đem đi.
+3826;663;3697.3125;刀求妾别埃 Dao cầu thiế p biết trao ai nhỉ, 
+3959;663;3831.34375;生寄払喂死則㱕 Sinh ký chàng ôi tử tắc quy.
+4186;821;3964.25;詠栢舟即孀女 Vịnh Bách Chu tức sương nữ
+4320;663;4192.0;隻栢分浽濘 Chiếc bách buồn về phận nổi nênh 
+4455;663;4326.1875;敖喭餒冷汀 Giữa dòng ngao ngán nỗi lênh đênh 
+4589;663;4459.375;情䃅 Lưng khoang tình ngh ĩ a mong đầy đặn 
+4729;663;4597.1875;姅風波汲  N ử a mạn phong ba luống bậ p bềnh 
+4871;663;4737.5625;䋥黙埃啉杜 Chèo lái mặc ai lăm đỗ bến 
+5003;663;4875.375;㠶繚尸几㕸吹 Buồm lèo thây k ẻ r ắ p xuôi ghềnh 
+5137;663;5008.3125;意埃板甘丕 Ấy ai thăm ván cam lòng vậy 
+548;663;5142.34375;喭餒揞仍漝浜 
+575;1579;548; Ngán nổi ôm đàn những tấ p tênh 
+815;821;575;荒 CHỬA HOANG
+949;663;820.25;奇朱化揚Cả nể cho nên hóa dở  dang, 
+1083;663;955.234375;事尼固透咳払Sự này có thấu hỡ i chăng chàng.
+1216;663;1089.125;縁天渚儒頭育Duyên thiên chưa thấy nhô đầu dọc, 
+1350;663;1222.25;分了牢麻扔涅昻Phận liễu sao mà nảy nét ngang 
+1484;663;1356.125;丐罪払奇Cái tội tr ăm năm chàng chịu cả, 
+1619;663;1490.21875;情塊妾吀Chữ tình một khối thiế p xin mang.
+1751;663;1623.375;管之世貞歴Quản chi miệng thế lờ i chênh lệch,
+1885;663;1757.21875;仍麻買頑Chẳng thế, nhưng mà thế, mớ i ngoan. 
+2060;795;1891.125;春香評註 Xuân Hương bình chú:
+2177;663;2060;園桃弄鎻唏霜Vườ n đào lỏng khoá hơ i sươ ng lọt 
+2311;663;2183.25;紫為埃㗂嗃 Cửa tía vì ai tiếng tr ẻ gào 
+2563;788;2317.25;珥河即景 NHỊ HÀ TỨC CẢNH
+2697;663;2568.25;濕洸頭頓噴湄Thâm th
+2724;1876;2701.0; Nm đầu gềnh lún phún mưa 
+2831;663;2724;妬埃特景踈Ðố ai vẽđượ c cảnh tiêu sơ 
+2965;663;2842.375;撑萻古樹如傘 Xanh um cổ thụ tròn như tán
+3100;663;2976.4375;撮長江浪語詞 Tr ắng toát tr ườ ng giang lặng ngỡ  tờ 
+3233;663;3110.5;牧沔曠野 Còi mục thét tr ăng miền hoang dã
+3366;663;3243.5;䋥漁拯平沙 Lướ i ngư giăng gió bãi bình sa
+3499;663;3377.4375;鐘埃䋎綏邊箕佐Chuông ai đứt nối bên kia tá
+3634;663;3511.25;鍾情襊踈 Ðấm lở  chuông tình một túi thơ 
+3870;894;3638.5;岧題NÚI BA  ĐÈO
+4002;663;3873.5;没岧没岧吏没岧Một đẻo, một đeo, lại một đèo,1
+4137;663;4008.125;埃窖景招蹽Khen ai khéo vẽ cảnh cheo leo.
+4269;663;4142.25;紫盧踈Cửa son tía ngắt lơ  thơ  nóc,
+4403;663;4275.34375;塘撑夷頓噴Đườ ng đá xanh rì lún phún rêu.
+4537;663;4409.3125;彷彿䒹椿干速Phản phất chồi thông cơ n gió thốc,
+4681;663;4543.1875;霜招Mịt mờ  ngọn cỏ giọt sươ ng gieo.
+4816;663;4685.375;䝨人君子埃拯Hiền nhân quân tử ai là chẳng 
+4950;663;4822.125;痗蹎拱㦖Mỏi gối chồn chân cũng muốn trèo. 
+5054;795;4956.21875;[1] Trong một buổi nói chuyện về Chữ
+5089;2165;5064.5; Nôm, tại Orange County, chúng tôi dùng câu 
+5170;None;5089;thơ  nầy lãm thí dụ “đánh dấu Chữ
+5190;1875;5170; Nôm” để tr ả lờ i một thính giả (BS  NHV). 
+548;852;5190;逰古寺 Du Cổ Tự
+681;663;553.0;柴伵從容景厨 Thầy tớ  thong dong dạo cảnh chùa 
+815;663;687.25;琴書襊壺 Cầm thư lưng túi r ượ u lưng hồ
+949;663;820.625;亇溪偈頭魚㗁 Cá khe lắng k ệđầu ngơ  ngác 
+1084;663;955.125;古訖劬 Chim núi nghe kinh cổ gật gù 
+1216;663;1089.25;扦慈悲秩 Then cửa từ bi nêm chặt cánh 
+1351;663;1222.3125;香済度㩒炉  Nén hươ ng  tếđộ cắm đầy lư
+1484;663;1357.5;茄師厭茄師子 Nhà sư ướ m hỏi nhà sư tí 
+1617;663;1490.71875;福茄的特蒲 Phướ c đức nhà ngươ i đượ c mấy bồ
+1736;None;1622.25;[1] một bản Anh ngữ (Spring Essence - 87) dịch hai câu cuối: 
+1837;795;1736;Buddha asks so little of his monks. 
+1939;795;1837;Blessed, they gather many friends 
+2158;821;1939;柴山天市 Sài Sơn Thiên Thị
+2292;663;2163.0;化工磋㙮别包 Hóa công xây đắ p biết bao đờ i.
+2425;663;2303.4375;怒景柴山固  N ọ cảnh Sài Sơ n có chợ  tr ờ i.
+2561;663;2438.3125;暑 Buổi sớ m gió tuôn, tr ưa nắng dãi,
+2699;663;2571.8125;班朝合最 Ban chiều mây hợ  p, tối tr ăng soi.
+2833;663;2711.3125;排行菓觥覩 Bày hàng hoa quả quanh năm đủ,
+2976;663;2845.25;江山 Dãi thẻ giang sơ n bốn mặt ngồi.
+3112;663;2986.5625;半利謨名仍几 Bán lợ i mua danh nào những k ẻ,
+3246;663;3124.25;此奇 Thử lên mặc cả một hai lờ i.
+3485;753;3257.4375;香山天市 Hương Sơn Thiên Thị
+3618;663;3490.5;埃香積 Ai đi Hưnơ g Tích chợ  tr ờ i đi,
+3753;663;3630.4375;合觥奇時 Chợ  họ p quanh năm cả bốn thì.
+3886;663;3763.5;対卓仙拱客侼Đổi chác ngườ i tiên cùng khách Bụt,
+4019;663;3897.4375;合行姉買姨 Hợ  p hàng gió chị vớ i tr ăng dì.
+4153;663;4031.4375;燕嘲客茄鎖 Yến oanh chào khách nhà mây tỏa,
+4287;663;4165.25;菓排行店 Hoa quả baà hàng điếm cỏ che.
+4435;663;4299.6875;架蟳覩Giá áo lợ n tằm tiền gạo đủ,
+4572;663;4447.46875;半謨意悶之之 Bán mua mặc ý muốn chi chi. 
+4811;792;4584.25;主奠題青娑洞㕑仙Chúa Tr ịnh1 Đề Thanh Sa  Động
+4953;663;4817.0;秩天厨脱 Chợ t khỏi Thiên Trù thoát r ẽ lên 
+5091;663;4959.3125;瀋瀋塘 Cửa hang thăm thẳm một đườ ng lên 

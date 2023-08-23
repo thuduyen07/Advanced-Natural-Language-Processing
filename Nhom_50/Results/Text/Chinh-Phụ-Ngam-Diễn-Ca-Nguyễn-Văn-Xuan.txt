@@ -1,0 +1,115 @@
+
+662;1326;0;Chinh Phụ Ngâm Diễn Ca 婦吟 歌
+795;1303;662;ị Ðiểễn âm段氏點音
+900;None;795;Nguồn: Chinh Phụệt 1950, tr. 143-167. 
+994;663;900;Phụ Chú: 
+1091;None;994;ả Nguyễn Văn Xuân (1921-2007), một trong những tác phẩm ra đời để lại 
+1185;663;1091;cho ông 
+1279;663;1185;ều kỷ niệất, đó là trườợp của cuốn biên khảo Chinh phụ  ngâm diễ n 
+1385;663;1291.25;âm tân khúc. 
+1465;663;1385;Lng sách của một gia đình nghèo, có xuất 
+1558;None;1465;xứ từ
+1650;663;1558;gia đình bà Chúa Nhấhành Thái; lẫch chữ Nôm có 
+1745;663;1650.5;cuốn 
+1852;663;1745;Chinh phụ  ngâm diễ n âm tân khúc, có tựa của nhà xuất bản (năm Gia Long thứ
+1931;663;1852;14, 1815), 
+2025;663;1931;nguyên tự (tựa) của dịch giả. Ông cho r ằng cuốộực tếđộc lập 
+2117;663;2025;mà cũng 
+2211;663;2117;là một bổốn Chinh phụ  ngâm b ị  khảo của họả Hoàng Xuân Hãn 
+2304;663;2224.125;) 
+2396;663;2304;— là một kỳthư về ngành nghiên cứu văn học theo văn bản học. 
+2490;663;2396.96875;Và ông đã xác quyết dịch giảđích thực là Phan Huy Ích và tên tác phẩm là 
+2597;663;2490.9375;Chinh phụ  diễ n âm tân khúc chứ không phải là Chinh phụ  ngâm... 
+2676;640;2597; Điều này đã gây ra sự tranh cãi không ít trên văn đàn miền Nam, thời trước 1975.
+2768;663;2676.875;Trong thập niên 1960 có lúc anh đượ c mờ i dạy giờ  môn chữ  Nôm tại Đại Học Huế
+2870;663;2770.98828125;và phát hiện trong một tủsách tư nhân bản văn chữ  Nôm của Phan Huy Ích dịch 
+2972;663;2872.953125;Chinh Phụ Ngâm của Đặng Trần Côn; bản dịch này trước kia được xem như của 
+3076;663;2974.90625;bà Đoàn ThịĐiểm. Khoảng 1920 nhiều học giảđã cho rằng bản dịch là của 
+3178;663;3076;Phan Huy Ích, nhưng chỉcó văn bản quốc ngữ . Phát hiện của Nguyễn Văn Xuân 
+3280;663;3178;đã giúp thêm bằng chứ ng cho học giảHoàng Xuân Hãn, ngườ i đãẳng định, 
+3379;663;3280;từ  khoảng 1950, dịch phẩm Chinh Phụ Ngâm thông dụng hiên nay là của Phan 
+3480;663;3381.9765625;Huy Ích. 
+3705;747;3480;Tập 征婦吟備緑Chinh Phụ Ngâm Bị Lục (1902)
+3834;750;3706.9375;隆和藏板iệu Tàng Bản
+3951;750;3840.25;có ghi 3 dòng, phía sau trang bìa: 
+4070;835;3951;靑池仁睦鄧陳先生琨著
+4204;835;4070;文江中富段夫人㸃演音
+4338;835;4204;神溪桐峯承書
+4454;729;4338;Thanh trì nhân mục Đặng Trần tiên sanh Côn trứ 
+4559;729;4456.625;Văn giang trung phú Đoàn phu nhân Điểm diễn âm 
+4658;729;4559;Thần khê Đồng Phong Thừa thư .
+4861;663;4659.5;1 
+4981;663;4861;坦浽干Thuở  trời đất nổi cơn gió bụi,
+5113;663;4986.4375;客紅Khách má hồng nhiều nỗi truân chiên.
+547;663;5119.4921875;撑箕瀋瀋層Xanh kia thăm thẳm tầng trên, 
+680;663;552.375;為埃朱餒尼Vì ai gây dự ng cho nên nỗi này ?
+797;663;686.71875;5
+917;663;797;長城月Trống Trườ ng Thành lung lay bóng nguyệt, 
+1051;663;921.875;甘泉䁾式Khói Cam Tuyền mờ  mịt thứ c mây. 
+1185;663;1056.71875;吝鎌寶Chín lần gươm báu chống tay,
+1317;663;1189.875;姅傳檄定出征ửa đêm truyền hịch định ngày xuất chinh.
+1434;663;1329.796875;9
+1575;663;1434;渃清平Nướ c thanh bình ba trăm năm cũ, 
+1735;663;1580.6875;襖戎挥官武自尼Áo nhung trao quan vũ từ  nay. 
+1868;663;1738.75;使塘Sứ  trờ i sớ m giục đườ ng mây, 
+2003;663;1874.74609375;詫Phép công là trọng, niềm tây sá nào. 
+2119;663;2008.75;13
+2238;663;2119;塘㧅弓箭Ðườ ng giong ruổi lưng đeo cung tiễn, 
+2372;663;2243.4375;餞迻絆妻孥Buổi tiễn đưa lòng bận thê noa.
+2506;663;2377.75;旗㗂賒賒Bóng cờ  tiếng trống xa xa, 
+2639;None;2511.4375;愁隘怨房Sầu lên ngọn ải, oán ra cử a phòng.
+2755;663;2645.6875;17
+2874;663;2755;払豪傑Chàng tuổi trẻ vốn dòng hào kiệt, 
+3008;663;2880.7109375;攝筆硯蹺役刀弓Xếp bút nghiên theo việc đao cung.
+3142;663;3013.9375;城連懞献陛Thành liền mong hiến bệ rồng, 
+3276;663;3148.703125;賊Thước gươm đã quyết chẳng dung giặc trờ i. 
+3392;663;3288.40625;21
+3511;663;3392;志䏧馭Chí làm trai dặm nghìn da ngự a, 
+3667;663;3516.8125;毛Gieo Thái Sơn nhẹ nử a/nữ a hồng mao. 
+3826;663;3673.59375;啫茄㧅幅袍Giã nhà đeo bứ c chiến bào,
+3962;663;3831.6875;檑梂渭秋Thét roi cầu Vị, ào ào gió thu. 
+4078;663;3966.875;25 
+4196;663;4078;外頭橋渃如Ngoài đầu cầu nước trong như  lọc, 
+4330;663;4202.40625;塘边梂群Ðườ ng bên cầu cỏ mọc còn non. 
+4463;663;4336.6171875;迻払弋弋Ðưa chàng lòng dặc dặc buồn, 
+4597;663;4469.359375;步坤平馭水坤平船Bộ khôn bằng ngự a, thủy khôn bằng thuyền. 
+4714;663;4609.91015625;29 
+4833;663;4714;Nướ c có chảy mà phiền chẳng rã, 
+4967;663;4839.59375;固麻胣Cỏcó thơm mà dạ chẳng khuây.
+5100;663;4973.375;吲吲吏扲Dặn rồi dặn, lại cầm tay, 
+548;663;5106.8515625;跢沒踟踟吏Bước đi một bướ c giây giây lại dừ ng 
+664;663;553.25;33 
+783;663;664;妾似唯Lòng thiếp tựa bóng trăng theo dõi,
+916;663;787.875;払愁賒尋天山Chàng sầu xa tìm cõi Thiên San. 
+1051;663;920.625;Múa gươm tiễn rượu chưa tàn, 
+1184;663;1054.0;指昂槊岸豹Chỉ ngang ngọn giáo vào ngàn hang beo. 
+1300;663;1189.84375;37 
+1420;663;1300;樓浪介子Săn Lâu Lan, rằng theo Giớ i Tử ,
+1552;663;1425.25;細蛮溪盘亊伏波Tớ i Man Khê, bàn sự  Phục Ba [Mã Viện]
+1686;663;1569.93359375;襖払似霜坡Áo chàng đỏ tự a sương pha, 
+1820;663;1692.21875;馭払色Ngự a chàng sắc trắng như là tuyết in. 
+1937;663;1826.40625;41 
+2056;663;1937;㗂樂馭吝氊㗂Tiếng nhạc ngự a lần chen tiếng trống,
+2189;663;2062.92578125;夾耒ノ俸Giáp mặt rồi phút bỗng chia taỵ
+2323;663;2195.74609375;河梁塘尼Hà Lương chia rẽđườ ng này, 
+2456;663;2328.375;边塘旗Bên đườ ng, trông lá cờ  bay ngùi ngùi. 
+2573;663;2461.71875;45 
+2692;663;2573;軍㐌外营Quân trước đã gần ngoài doanh Liễu, 
+2826;663;2697.46875;騎群躊裊長楊Kỵ sau còn trù nẻo Trường Dương. 
+2960;663;2831.8125;軍迻払塘Quân đưa chàng ruổi lên đườ ng, 
+3093;663;2963.875;柳楊別妾断腸尼Liễu dương biết thiếp đoạn trường này chăng
+3210;663;3105.1875;49 
+3328;663;3210;㗂笛澄同望Tiếng địch thổi nghe chừng đồng vọng, 
+3462;663;3335.671875;行旗跷拂披Hàng cờ đi theo bóng phất phơ.
+3597;663;3468.421875;払蹺笠迻Dấu chàng theo lớp mây đưa, 
+3730;663;3602.0;妾孕餒茄Thiếp nhìn rặng núi ngẩn ngơ nỗi nhà. 
+3847;663;3736.421875;53
+3965;663;3847;払辰賒湄Chàng thì đi cõi xa mưa gió,
+4099;663;3968.75;妾辰房詔Thiếp thì về buồng cũ chiếu chăn.
+4232;663;4105.4296875;垠Ðoái trông nhau đã cách ngăn, 
+4367;663;4237.25;牟碧痕撑Tuôn màu mây biếc, phơi ngần non xanh. 
+4483;663;4370.75;57 
+4602;663;4483;准咸京払群吏Chốn Hàm Kinh chàng còn ngoảnh lại, 
+4737;663;4608.40625;Cội Tiêu Tương thiếp hãy trông chàng.
+4870;663;4741.875;湘隔咸陽Khói Tiêu Tương cách Hàm Dương, 
+5004;663;4873.0;Cây Hàm Dương cách Tiêu Tương mấy trùng 

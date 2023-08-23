@@ -1,0 +1,135 @@
+
+283;4770;0;THI VÂN CUNG OÁN NGÂM KHÚC 
+406;None;284.0;Vô đoan nguyệt lão oán hồng nhan 
+427;None;406;Ôn Như Hầu NGUYỄN GIA THIỀU soạn 
+530;None;427;Tịch mịch không khuê bửu triện tàn 
+575;1279;530;怨 曲
+653;None;575;Bán chẩm thu cùng ngâm dạ v ĩ nh 
+746;None;653;[Lê Văn  Đặng phiên theo bản NÔM in năm Mậu Ngọ 1918] 
+777;None;746;Mãn song lương nguyệt tỏa xuân hàn 
+900;None;777;Sầu khiêu tàn chúc liên cô ảnh 
+1023;None;900;Lãn đối lăng hoa lý bội hoàn 
+1147;None;1023;Nhứt phiến u tình nan tận thoại 
+1270;None;1147;r ượng huy thanh lệ phác chu lan
+4040;1224;1270;2
+3581;390;4047.0;啟定戊午年新刊Khải  Định Mậu Ngọ niên tân san
+3720;793;3588.1875;温如侯撰 
+3741;None;3720;Ôn Như Hầu soạn 
+3882;970;3741;吟曲
+1270;4060;3882;T
+1392;None;1270;Hà Bình Ngu Khê Hậu Sinh Soạn
+1561;4347;1392;無端月㧯怨紅顔 寂寞空閨寶篆殘
+1588;4065;1561;[1b] 
+1718;4333;1588;半秋蛩吟夜永 滿窻凉月鎖春寒
+1875;4333;1719.0;愁挑殘燭憐孤影 懶對菱花理佩環
+2032;4333;1875;一片幽情難盡話 仗揮清淚撲朱欄
+2187;4424;2032;河平愚溪後生
+2462;4201;2188.0;Nguy ệt lão ghen chi mấy má hồng, 
+2558;4201;2462;Tri ện tàn v ắng v ẻ chốn phòng không. 
+2653;4201;2558;Canh khuya nử a g ối trùng eo ốc, 
+2749;4178;2653; Xuân khoá đầy song nguy ệt l ạnh lùng. 
+2845;4201;2749;Buồn g ợ i đ èn tàn tr ơ  bóng dáng, 
+2941;4201;2845;Bi ếng soi g ươ ng sang sử a bông vòng. 
+3037;4201;2941;M ảnh tình u uất khôn bày t ỏ, 
+3133;4197;3037;V ẩy khắ p câu lan gi ọt l ệ trong. 
+3267;5151;3133;Khuyết Danh 
+3426;None;3267;[đọc bản Nôm nơi PHỤ LỤC, trang 9b] 
+3899;1217;3426;Cung Oán Ngâm Khúc
+4040;272;3899; trang 3 trang 4
+283;None;4050.5;1. Tr ải vách quế gió vàng hiu hắt, 
+406;None;283;Mảnh vũ y lạnh ngắt nhưđồng, 
+530;413;406;Oán chi những khách tiêu phòng, 
+653;None;530;Mà xui phận bạc nằm trong má đào. 
+900;None;653;5. Duyên đã may cớ sao lại r ủi, 
+1023;None;900;Ngh ĩ  nguồn cơn dở dói sao đang, 
+1147;None;1023;Vì đâu nên nỗi dở dang, 
+1270;None;1147;Ngh ĩ  mình, mình lại nên thương nỗi mình. 
+1517;None;1270;9. Tr ộm nhớ thuở hình hài tạo hóa, 
+1640;None;1517;Vẻ phù dung một đóa khoe tươi, 
+1764;None;1640;Nhụy hoa chưa mỉ m miệng cười, 
+1887;None;1764;Gấm nàng Ban đã lạt mùi thu dung. 
+2134;None;1887;13. Áng đào kiểm đâm bông não chúng, 
+2257;413;2134;Khóe thu ba dợn sóng khuynh thành, 
+2381;None;2257;Bóng gương lấp loáng trong mành, 
+2504;None;2381;Cỏ cây cũng muốn nổi tình mây mưa. 
+2751;None;2504;17. Chìm đáy nước cá lờđờ lặn, 
+2874;None;2751;Lửng da tr ời nhạn ngẩn ngơ sa, 
+2998;None;2874;Hương tr ời đắm nguyệt si hoa, 
+3121;None;2998;Tây Thi mất vía, Hằng Nga giật mình. 
+3368;None;3121;21. Câu cẩm tú đàn anh họ Lý, 
+3491;None;3368;Nét đan thanh bực chị chàng Vương, 
+3614;None;3491;Cờ tiên r ượu thánh ai đương, 
+3738;None;3614;Lưu Linh,  Đế Thích là làng tri âm. 
+283;None;3738;25. Cầm điếm nguyệt phỏng tầm Tư Mã, 
+406;None;283;Phú lầu thu lạ gã Tiêu Lang, 
+530;None;406;Dẫu mà tay múa miệng vang, 
+653;None;530;Thiên tiên cũng ngảnh nghê thường trong tr ăng. 
+900;None;653;29. Tài sắc đã vang lừng trong nước, 
+1023;3928;900;Bướ
+1147;None;1023;Tai nghe nhưng mắt chưa nhìn, 
+1270;None;1147;Bịnh Tề Tuyên đã nổi lên đùng đùng. 
+1517;None;1270;33. Hoa xuân nọ còn phong nộn nhụy, 
+1640;None;1517;Nguyệt thu kia chưa hé hàn quang, 
+1764;None;1640;Hồng lâu còn khóa then sương, 
+1887;None;1764;Thâm khuê còn tẩm mùi hương khuynh thành. 
+2134;None;1887;37. Làng cung kiếm r ắp ranh bắn sẻ, 
+2257;None;2134;Khách công hầu ngấp nghé mong sao, 
+2381;None;2257;Vườn xuân bướm hãy còn rào, 
+2504;None;2381;Thấy hoa mà chẳng lối vào tìm hương. 
+2751;None;2504;41. Gan chẳng đá khôn đường há chuyển, 
+2874;None;2751;Mặt phàm kia dễđến Thiên Thai, 
+2998;None;2874;Hương tr ời sá động tr ần ai, 
+3121;None;2998;Dẫu vàng ngàn lượng dễ cười một khi. 
+3368;None;3121;45. Ngẫm nhơn sự cớ chi ra thế, 
+3491;None;3368;Sợi xích thằng chi để vướng chn, 
+3614;None;3491;Vắt tay nằm ngh ĩ  cơ tr ần, 
+3738;None;3614;Nước dương muốn tưới nguội dần lửa duyên. 
+4040;272;3738; trang 5 trang 6
+283;None;4050.5;49. Kìa thế cuộc như in giấc mộng, 
+406;None;283;Máy huyền vi mởđóng khôn lường, 
+530;None;406;Vẻ chi ăn uống sự thường, 
+653;None;530;Cũng còn tiền định khá thương lọ là. 
+900;None;653;53.  Đòi r ất kẻ thiên ma bách chiết, 
+1023;None;900;Hình thì còn bụng chết đòi nau, 
+1147;None;1023;Thảo nào khi mới chôn nhau, 
+1270;None;1147; Đã mang tiếng khóc ban đầu mà ra ! 
+1517;None;1270;57. Khóc vì nỗi thiết tha sự thế, 
+1640;None;1517; Ai bày trò bãi bể nương dâu, 
+1764;None;1640;Tr ắng r ăng đến thuở bạc đầu, 
+1887;None;1764;Tử, sanh, kinh, cụ làm nau mấy lần. 
+2134;None;1887;61. Cuộc thành bại hầu cằn mái tóc, 
+2257;None;2134;Lớp cùng thông nhưđúc buồng gan, 
+2381;None;2257;Bịnh tr ần đòi đoạn tâm can, 
+2504;None;2381;Lửa cơđốt ruột, dao hàn cắt da. 
+2751;None;2504;65. Gót danh lợi bùn pha sắc xám, 
+2874;None;2751;Mặt phong tr ần nắng nhuốm mùi dâu, 
+2998;None;2874;Ngh ĩ  thân phù thế mà đau, 
+3121;None;2998;Bọt trong bể khổ, bèo đầu bến mê. 
+3368;None;3121;69. Mùi tục vị lưỡi tê tân khổ, 
+3491;None;3368; Đường thếđồ gót r ỗ khi khu, 
+3614;None;3491;Sóng cồn cửa bể nhấp nhô, 
+3738;None;3614;Chiếc thuyền bào ảnh lô xô gập ghình. 
+283;None;3738;73. Tr ẻ tạo hóa đành hanh quá ngán, 
+406;None;283;Dắt díu người lên cạn mà chơi. 
+530;None;406;Lò cừ nung nấu sựđời, 
+653;None;530;Bức tranh vân cẩu vẽ người tang thương. 
+900;None;653;77.  Đền vũ tạ nhện giăng cửa mốc, 
+1023;3928;900;Thú ca lâu dế khóc canh dài, 
+1147;None;1023; Đất bằng bỗng lấp chông gai, 
+1270;None;1147; Ai đem nhơn ảnh nhuốm mùi tà dương. 
+1517;None;1270;81. Mồi phú quí nhử làng xa mã, 
+1640;3928;1517;Bã vinh hoa lừa gã công khanh, 
+1764;None;1640;Giấc Nam Kha khéo bất bình, 
+1887;None;1764;Bừng con mắt dậy thấy mình tay không. 
+2134;None;1887;85. Sân đào lý dâm lồng man mác, 
+2257;None;2134;Nền đỉ nh chung nguyệt gác mơ màng. 
+2381;None;2257;Cánh buồm bể hoạn mênh mang, 
+2504;None;2381;Cái phong ba khéo cợt phường lợi danh. 
+2751;None;2504;89. Quyền họa phước tr ời tranh mất cả, 
+2874;None;2751;Chút tiện nghi chẳng tr ả phần ai, 
+2998;None;2874;Cái quay búng sẵn trên tr ời, 
+3121;None;2998;Mờ mờ nhơn ảnh như người đi đêm. 
+3368;None;3121;93. Hình mộc thạch vàng kim ố cổ, 
+3491;None;3368;Sắc cầm ngưủ vũ ê phong, 
+3614;None;3491;Tiêu điều nhơn sựđã xong, 
+3738;None;3614;Sơn hà cũng huyễn, côn trùng cũng hư. 

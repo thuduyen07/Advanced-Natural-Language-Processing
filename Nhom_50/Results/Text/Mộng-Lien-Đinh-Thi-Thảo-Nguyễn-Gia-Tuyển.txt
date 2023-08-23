@@ -1,0 +1,103 @@
+
+611;None;0;MỘNG LIÊN  ĐÌNH THI TH ẢO夢詩草(1910).
+766;None;611;Nguyễn Gia Tuyển soạn 阮嘉選譔,phỏng theo Quốc Phong 國風 nguyên bản
+889;None;766;ữ Nôm dịch ra chữ Hán.
+1125;1078;889;BÌA TRƯỚCBÌA SAU
+1244;890;1125;維新庚戌年仲春月 蓮嘉選譔
+1390;1025;1246.5;南詩新國風卷亗 
+1559;969;1390;雲主人奉編 溪亭循甫評 
+1691;None;1560.5;Duy Tân Canh Tuất niên tr ọng xuân nguyệt Liên  Đình gia tuyển soạn 
+1816;None;1691;Nam Thi Tân Tuyểốc phong quyển chi nhứt 
+1958;None;1816;Vân  Đình chủ nhơn phụ Đình Tuần Phủ bình 
+2225;None;1958;NGUỒN : Thư viện Việt Nam, Ký số R.1857 với tên sách 
+2354;920;2225;南詩新選Nam Thi Tân Tuyển. 
+2598;None;2367.125;Gặp tr ở ngại khi đổi ra bản PDF, chúng tôi phải bỏ một sốđoạn chữ Hán, các Chú Thích, 
+2711;None;2598;Phụ Chú và Phụ Lục. 
+2948;2078;2711;PH ẦN I: 
+3084;1804;2948;Phong Dao Tuyển 
+3248;714;3084;Trong quyể n m ộ  t, có Ca Dao c ủ a b ố n t ĩ nh : Th ừ a Thiên 承天
+3430;714;3248;(1a-7a), Sơ n Tây山西Quang宣光(22a-23a) 
+3613;714;3430;và Lạ ng Sơ n 諒山(23b-24b), theo th ể  th ơ  6-8. Câu Hán v ầ n 
+3757;714;3613;đ v ầ n l ư ng . 
+3958;818;3769.875;承天 
+4105;550;3958;[Nôm]
+4236;None;4105;悶身Con ơi, muốn nên thân người,
+4374;545;4236.875;仍媄吒Lắng tai nghe lấy những lời mẹ cha.
+4510;550;4380.828125;[Hán]
+4640;545;4510;子兮子兮人身欲成Tử hề tử hề nhơn thân dục thành,
+4777;545;4647.0;父訓母言傾耳以聴 Phụ huấn mẫu ngôn khuynh nh ĩ  d ĩ  thính
+5026;550;4784.0;[Nôm]
+5158;545;5026;時讀册吟踈Trai thời đọc sách ngâm thơ,
+5295;545;5158;銇經史㡳徐開科Dùi mài kinh sửđể chờ khai khoa
+5426;575;5295.9375;[Hán]
+5555;545;5426;彼男子兮詩册吟哦 Bỉ  nam tử hề thi sách ngâm nga,
+5694;545;5562.0;硏求經史以侯開科Nghiên cầu kinh sử d ĩ  hầu khai khoa
+674;550;5694.875;[Nôm]
+810;545;674;女枚綏特業Lỡ mai nối được nghiệp nhà,
+949;545;810.875;顕親Tr ước là mát mặt, sau là hiển thân.
+1093;575;963.25;[Hán]
+1222;545;1093;跂望來兹家聲克紹Kỳ vọng lai tư gia thanh khắc thiệu
+1360;545;1229.0;光面新荣顕親斯孝Quang diện tân vinh hiển thân tư hiếu
+1609;550;1367.0;[Nôm]
+1741;545;1609;拯咮拱体棦Chẳng chua cũng thể là chanh,
+1878;None;1746.25;拯拱体柑Chẳng ngọt cũng thể cam sành chín cây.
+2022;545;1878.875;㦖朱固帝固Muốn cho có đấy có đây,
+2160;545;2022;山林渚易沒棱Sơn lâm chưa dễ một cây nên r ừng.
+2290;575;2160.875;[Hán]
+2419;545;2290;何橙不酸何柑不美Hà chanh bất toan, hà cam bất mỹ,
+2565;545;2426.0;不欲平有予有尓Há bất dục bình, hữu dư hữu nễ
+2750;787;2565.75;山西
+2772;1991;2750;Sơn Tây
+2905;550;2772;[Nôm]
+3036;545;2905;惜台核桂棱 Tiếc thay cây quế giữa r ừng 
+3173;545;3042.25;㡳朱䋲䋲儂奴  Để cho thằng mán thằng nùng nó leo 
+3421;550;3179.125;[Nôm]
+3553;545;3421;滝渃沚堆Một sông nước chảy đôi dòng 
+3697;545;3558.78125;畑㛪Một đèn hai ngọn em trông ngọn nào
+3833;550;3702.8125;[Hán]
+3962;545;3833;一江之水流分為二兮Nhứt giang chi thủy lưu phân vi nhị hề5
+4100;545;3969.0;一燈两光子何所里兮Nhứt đăng lưỡng quang tử hà sở lý hề
+4355;550;4106.0;[Nôm]
+4492;545;4355;時錦絩Gái thời dệt gấm thêu hoa,
+4628;545;4492;欺更欺絩絑Khi vào canh cửi khi ra thêu thùa.
+4766;575;4636.4375;[Hán]
+4895;545;4766;彼子兮繡織錦Bỉ  tử hề tú hoa chức cẩm,
+5033;545;4902.125;出計入專織紝Xuất học điệt kế nhập chuyên chức nhâm
+5289;550;5041.4375;[Nôm]
+5420;545;5289;列鐄金絨Lệch vàng bỏ túi kim nhung,
+5556;545;5420.875;别浪君子固用些庄Biết r ằng quân tử có dùng ta chăng.
+5688;550;5563.0;[Hán]
+562;545;5688;盛彼金刀金絨之袋 Thịnh bỉ  kim đao kim nhung chi đại,
+699;545;569.0;知君子心有無我 Tri quân tử tâm hữu vô ngã ái.
+949;550;706.125;[Nôm]
+1094;545;949;畑湿䏾 Đèn tàn thấp thoáng bóng tr ăng
+1230;545;1094.875;埃玊舂升准尼 Ai đem người ngọc thung thăng chốn nầy
+1368;575;1238.4375;[Hán]
+1497;545;1368;殘燈一盞月影依稀Tàn đăng nhứt tr ản nguyệt ảnh y hi
+1635;545;1504.875;誰將玊人逍遙于兮Thùy tương ngọc nhơn tiêu diêu vu hề
+1930;550;1642.0;[Nôm]
+2067;545;1930;払負妾為Chàng ơi phụ thiếp làm gì 
+2223;545;2067;妾如拖欺Thiếp như cơm nguội đỡ khi đói lòng
+2353;575;2223.96875;[Hán]
+2483;545;2353;郎兮郎兮負妾何為 Lang hề lang hề phụ thiếp hà vi
+2620;545;2490.0;妾如冷飯可以療饑Thiếp như lãnh phạn khả d ĩ  liệu cơ
+2889;550;2627.0;[Nôm]
+3027;545;2889;妬停Bỏđây lấy đó sao đành,
+3170;545;3027.875;㛪吱柑沛槁Em chê cam sành lấy phài cau hôi
+3315;545;3170.9375;槁半銅Cau hôi bán một đồng mười,
+3451;545;3315;柑銅槁猪猪Cam ba đồng một, cau ngồi tr ơ tr ơ. 
+3589;575;3458.59375;[Hán]
+3720;545;3589;舍此取彼其心不一 Xá thử thủ bỉ  kỳ tâm bất nhứt 
+3858;545;3726.125;舍此黄柑逢彼酸槁thử hoàng cam phùng bỉ  toan cảo
+3994;545;3863.25;槁十其價只一銭兮 Cảo thập kỳ giá chỉ  nhấền hề
+4131;545;4000.0;柑三十位槁兀坐兮 Cam tam thập vị cảo ngột tọa hề
+4386;550;4137.0;[Nôm] 
+4515;545;4386;湄徐湄 Mưa từ trong núi mưa ra
+4653;545;4522.25;湄边天下湄戈厨柴 Mưa bên thiên hạ mưa qua Chùa Thầy
+4784;550;4660.0;[Hán]
+4914;545;4784;大雨之來自歷山始  Đại vũ chi lai tự lịch sơn thủy 
+5051;545;4921.0;八表同沾爰過柴寺 Bát biểu đồng triêm viên quá sài tự
+5306;550;5058.0;[Nôm]
+5435;545;5306;堆些㐌﨤饒  Đôi ta đã gặp nhau đây
+5573;545;5442.125;如瘦﨤Như con bò nhỏ (xấu) gặp bài (bãi) cỏ non 
+5704;575;5580.296875;[Hán]

@@ -1,0 +1,99 @@
+
+547;663;0;TRÍCH Thập Giới Cô Hồn Quốc Ngữ Văn Lê Thánh Tông Soạn
+649;None;547;(Thiên Nam Dư Hạ Tập, quyển thứ 26, t t!ang [46a] "#n [55b]
+750;929;649;!" b#i $% &' c(u ) chữ* +i,ng b#i 5 c- . c(u 6 chữ
+954;929;750;$%& Thi'n tng) $2& *ạo +) $-& .uan /iêu) $0& Nho +) $1& Thiên n "3a /4) $6& 
+1056;663;954;Lư5ng y) $& Tư7ng qu8n) $9& Hoa nư5ng) $:& Thư5ng ;<) %$& *=ng t>?
+1308;None;1056;"! &Thi'n tng/ @A than !Bng
+1428;663;1308;, 蔑瓶蔑鉢蔑袈裟 
+1549;641;1428; Náu  ;hi'n giG /Gm ;>a nhG?耨於廛伽茹
+1669;663;1549;@inh "= ngI; /8u hư5ng /In t!iAn, 經玊楼香論篆
+1790;663;1669;*3nh /ui thi'n iAnJ EKng oay hoa?定退禪院俸磋花
+1910;663;1790;Th8n t8m !>a +ạ;h quê hG hMu, 
+2031;663;1910;i7i hạnh 8ng "Oi giáo ThP;h Qa,!"#$%&
+2151;641;2031; NRi nhMng thiên "ưng ;ng "3a ngK;,'()*+,-
+2271;663;2151;Uháp +ao ;hVng " "ưW; mFnh taX./012
+2392;663;2271;iAn
+2528;None;2392;". &*ạo +)/ @A than !Bng
+2649;663;2528;T<n ;ông ngGy tháng /uyAn "an +a,34
+2769;663;2649;Uhư5ng + tFm ;h5i "ể /Z nhG?89:;㡳<= 
+2890;663;2769;T!i'u "[u hng hng ;h8n Eư7; nguyAt,>?@@ABC
+3010;663;2890;\ hư ng Vng ti#ng tan hoa?DEFF㗂G=
+3131;641;3010; NgI; thanh nể tPnh ;hưa "i "#n,玊H㧠
+3251;663;3131;i7i / hoGn h]n Yy /ại ;a?LMN=OP
+3372;663;3251;*i /uật Thiên tôn "i " th#,S
+3492;663;3372;* ngưi ai ^_ " mFnh taX/TU/12
+3642;None;3492;"0 (.uan /iêu&/ @A than !Bng
+3763;663;3642;*iêu "ang ngan ngát áo h]ng +a,VWXXYZ
+3883;663;3763;Cng ;h3u 5n phong u`ng t7i nhG?=
+4004;663;3883;Tán !Wp ERng hO ;h mbt ngI;,`a䏾b玊
+4124;663;4004;Hư5ng ô cbm /iZu "ưWm hGi hoa?香cde==
+4245;663;4124;TiA; dy /a e ngưi +um hIp,ij
+4370;641;4245; Nhạ; f ;dm t!anh ti#ng ci ;a?klm㗂n
+4491;663;4370;Uh qu4 nhFn m yêu h#t t;,opqr
+4611;663;4491;Cáy nghjo +ao ^hko h=m ngưi talst2
+4762;None;4611;"4 (Nho +&/ @A than !Bng
+4882;663;4762;@'nh ^'nh áo EY, /iển ^hn +a,uuvwxZ
+5003;663;4882;T!ưng `; hôm mai "ể /y nhG? yz{|㡳}=
+5025;2691;5003;()
+5123;663;5025;Lạnh /o cưng thu như án tuy#t,‚ƒ„…
+553;641;5123; Nng +ư5ng my phát /n hGi hoa?= 
+673;663;553;TGi ;ao h5n nMa Qông Tôn +á;h, Ž
+795;663;673;S th3nh ;On t!uy'n N3nh ThP;h ;a ‘’戚
+918;663;795;\t m; ;hVng quên E' ;hP ;,—
+1038;663;918;L; ;ao +ao ^hko /r ngưi taX2
+1188;None;1038;"5 (Thiên n "3a /4&/ @A than !Bng
+1309;663;1188;Tng /u8n thiên "A /n /ong +a,š論),›œ7
+1429;663;1309;*iểm huyAt tdm /ong ^hp mIi nhG?㸃:œžŸ=
+1550;663;1429;Tạo "Oi phư5ng, ;h8n "ạp tuy#t,
+1670;663;1550;T!ông tFm ^hP, mbt [y hoa?:¡O=
+1796;663;1675.5;Long EGn h< ;ứ m nhi'u th#,œ¢£¤
+1916;663;1796;sận th3nh thi +uy "I; mIi ;a?¥¦§¨Ÿ
+2037;641;1916; NhMng nRi cM /Gnh !Bng Ei "t,('
+2159;663;2037;*t nGo hay ;=i "ưW; ngưi taX02
+2311;None;2159;"6 (Lư5ng y&/ @A than !Bng
+2431;641;2311; Ngưu hoGng, /ong n=o /n thdn +a,¬œ®›¯Z
+2552;663;2431;Cbt ^Pn, phư5ng mdu tP;h "ể nhG?
+2672;663;2552;Qh8m ;ứu ng hay n5i mạ;h /ạ;,³´µ«¶·¸
+2793;663;2672;Thu`; cng nghiAm Ei#t ;h`n tinh hoa?¹º»¼½¾
+2913;663;2793;TK t!8n hI; /Yu thông nhi'u ;hứng,¿ÀÁÂ
+3034;663;2913;HoG th; phư5ng mdu thK; mIi ;a?ÃÄ8±ÅŸ
+3154;663;3034;Qao thp ai ai "'u gip "ưW;,髙0
+3275;663;3154;ip ngưi +ao ;hVng gip mFnh taX12
+3426;None;3275;")(Tư7ng qu8n& / @A than !Bng
+3546;663;3426;Qhi#n t!ưng ngdn ngật ^hP phong +a,yÇÇ¡ÈÉ
+3667;663;3546;*ứt !ut "Oi phn thu nh7 nhG?#ÊËÌ=
+3787;663;3667;Í絶ÎÏÐÑ
+3907;663;3787;Sdu tuôn "êm ng gi`; (c`;& mai hoa?ÒFÓÔ=
+4028;663;3907;T!ông +ông Ng8n Hán Ea ;anh nguyAt,ØC
+4148;663;4028; máy /8u thuy'n mt ti#ng ;a?Ù楼Ú㗂
+4269;641;4148; NgoGi Yi Hung Nô mng cp h#t,ÛÜÝÞßr
+4389;663;4269;Qông nên nGo E thá; ngưi ta? 4!àá2
+4540;None;4389;"' (Hoa nư5ng& /@A than !Bng
+4660;641;4540; Nứ; ^hP thiên hư5ng áo nh +a,âÉ
+4786;663;4660;LGng nam, ng E; thi#u n5i nhG?ãä"
+4908;663;4786;*Gnh mt /Ka mb; hOng mua phn,æ蔑黙
+5030;641;4908; Ngt "`ng ti'n n "ể ;há; hoa?=逴
+5151;663;5030;L[n th[n ;hVng thư5ng th8n Yo hRa,ò
+553;663;5151;Qh`; mOng nhMng mYi + giao ;a?óô(õö
+673;663;553;Ti#; u8n ^hôn ti#;, ti#; ;hng "ưW;,
+795;641;673; NgGy tháng ai hdu ^_ "Wi taX㫾TúUû2
+947;None;795;"1 (Thư5ng ;<& / @A than !Bng
+1070;663;947;*êm ngGy "au "áu Ei t!Gng +a,#üÉ
+1192;None;1070;Qva ;Yi "m ' "ể ;hật nhG?$ý%㡳þ=
+1314;663;1192;LOng m`i tPnh toan "ưOng bt =nh?&'詠
+1436;663;1314;Lưri /Bn ^hko /ko th`t n hoa?()t=
+1571;663;1436;Qva phi ngha /Gm nên !p nư7;,$非義!渃
+1692;663;1571;LOng Et nh8n t!uy'n "ể /Gm ;a?&不仁’㡳 
+1812;663;1692;La "Yo +o m nGo ;R ^há;,沾倒*固恪
+1933;641;1812; Ngưi ta /ại Eán "ưW; ngưi ta?2P半02
+2083;None;1933;!" (*=ng t>&?/ @A than !Bng
+2203;663;2083;@'nh ^hểnh áo EY, m /ư5ng +a,uuv帽涼É
+2324;663;2203;L[n th[n hay "8u iA; ;>a nhG?役=
+2444;663;2324;Db; Ei "ám hj +ang "ám hi,曵+盎夏,盎㑹
+2565;663;2444;Dạo ;hưng /Gng /iZu t7i /Gng hoa?烝ãd_ã=
+2685;663;2565;Say "Oi "ám Eạn ;hj, Eạn !ưWu,醝#盎伴茶伴-
+2806;663;2685;sui /Gm "Gn, ti#ng ư7ng, ti#ng ;a?.弹㗂唱㗂
+2926;663;2806;Qhkp miAng ;ng nhau !Bng /3;h +,劄/+
+3047;663;2926;Th# gian ai ^_ cZ h5n taXS間T易
+3166;663;3047;Sang ,2chM thP;h hWp0
