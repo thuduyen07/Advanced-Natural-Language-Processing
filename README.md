@@ -4,6 +4,31 @@
 
 Dự án "Thu thập dữ liệu song ngữ chữ Nôm - chữ Quốc ngữ" nhằm mục đích thu thập và tổ chức dữ liệu song ngữ giữa hai hệ thống chữ viết chính tại Việt Nam: chữ Nôm và chữ Quốc ngữ. Dự án cung cấp nguồn tài liệu quý báu cho nghiên cứu ngôn ngữ, phát triển ứng dụng học tập và khám phá văn hóa truyền thống.
 
+
+## Mô tả thư mục
+
+1. **Reports/**
+   - Thư mục chứa các báo cáo và slide liên quan đến dự án.
+   - Thư mục con **Report/** chứa các phiên bản của báo cáo dưới dạng docx và pdf.
+   - Thư mục con **Slide/** chứa các phiên bản của slide dưới dạng pptx và pdf.
+
+2. **SourceCode/**
+   - Thư mục chứa mã nguồn của dự án.
+   - File **NLP_Project.ipynb** là mã nguồn trong định dạng IPython Notebook.
+
+3. **Results/**
+   - Thư mục chứa các kết quả thu thập và xử lý dữ liệu.
+   - Thư mục con **Constant_HTML_file/** chứa các file html dùng cho bước lọc nội dung.
+   - Thư mục con **file_html/** chứa các file html thu thập được.
+   - Thư mục con **images/** chứa các hình ảnh thu thập được.
+   - Thư mục con **Text/** chứa các file dữ liệu thu thập được dưới dạng đôi một xlsx và txt.
+
+4. **Evaluation/**
+   - Thư mục chứa mã nguồn và kết quả đánh giá dữ liệu thu thập.
+   - File **SourceCode_EvaluationResult.py** là mã nguồn để đánh giá và ước tính số lượng dữ liệu thu thập được.
+   - File **EvaluationResult.xlsx** chứa toàn bộ dữ liệu thu thập được, được lưu thành hai cột: một cột chữ Nôm và một cột chữ Quốc ngữ.
+
+
 ## Cấu trúc thư mục
 
 Dưới đây là cấu trúc thư mục của dự án:
@@ -216,29 +241,5 @@ Dưới đây là cấu trúc thư mục của dự án:
  ┃ ┗ 📜NLP_Project.ipynb
  ┗ 📜README.md
 ```
-
-
-## Mô tả thư mục
-
-1. **Reports/**
-   - Thư mục chứa các báo cáo và slide liên quan đến dự án.
-   - Thư mục con **Report/** chứa các phiên bản của báo cáo dưới dạng docx và pdf.
-   - Thư mục con **Slide/** chứa các phiên bản của slide dưới dạng pptx và pdf.
-
-2. **SourceCode/**
-   - Thư mục chứa mã nguồn của dự án.
-   - File **NLP_Project.ipynb** là mã nguồn trong định dạng IPython Notebook.
-
-3. **Results/**
-   - Thư mục chứa các kết quả thu thập và xử lý dữ liệu.
-   - Thư mục con **Constant_HTML_file/** chứa các file html dùng cho bước lọc nội dung.
-   - Thư mục con **file_html/** chứa các file html thu thập được.
-   - Thư mục con **images/** chứa các hình ảnh thu thập được.
-   - Thư mục con **Text/** chứa các file dữ liệu thu thập được dưới dạng đôi một xlsx và txt.
-
-4. **Evaluation/**
-   - Thư mục chứa mã nguồn và kết quả đánh giá dữ liệu thu thập.
-   - File **SourceCode_EvaluationResult.py** là mã nguồn để đánh giá và ước tính số lượng dữ liệu thu thập được.
-   - File **EvaluationResult.xlsx** chứa toàn bộ dữ liệu thu thập được, được lưu thành hai cột: một cột chữ Nôm và một cột chữ Quốc ngữ.
 
 *README được viết bởi [Duyen Nguyen](https://github.com/thuduyen07) và [Triet Dang](https://github.com/trietdang5599)*
