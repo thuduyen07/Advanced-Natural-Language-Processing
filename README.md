@@ -1,5 +1,23 @@
 # Thu thập dữ liệu song ngữ chữ Nôm - chữ Quốc ngữ
 
+<div style="display: flex; justify-content: right;">
+  <div style="background-color: #e6e6ff; padding: 10px; border-radius: 10px;">
+    <a href="https://github.com/trietdang5599" style="color: #000066;">
+      <strong>Triet Dang</strong>
+    </a>
+  </div>
+
+
+  <div style="background-color: #e6f7e6; padding: 10px; border-radius: 10px; margin-right: 10px;">
+    <a href="https://github.com/thuduyen07" style="color: #006600;">
+      <strong>Duyen Nguyen</strong>
+    </a>
+  </div>
+
+
+</div>
+
+
 ## Giới thiệu
 
 Dự án "Thu thập dữ liệu song ngữ chữ Nôm - chữ Quốc ngữ" nhằm mục đích thu thập và tổ chức dữ liệu song ngữ giữa hai hệ thống chữ viết chính tại Việt Nam: chữ Nôm và chữ Quốc ngữ. Dự án cung cấp nguồn tài liệu quý báu cho nghiên cứu ngôn ngữ, phát triển ứng dụng học tập và khám phá văn hóa truyền thống.
