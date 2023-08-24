@@ -56,7 +56,7 @@ jobs:
     - name: Run NLP_Project notebooks
       run: |
         for file in $(find . -name 'NLP_Project*.ipynb'); do
-          jupyter nbconvert --execute "$file" --to html
+          jupyter nbconvert --execute "$file" --to python
         done
 
     - name: Run Evaluation scripts
