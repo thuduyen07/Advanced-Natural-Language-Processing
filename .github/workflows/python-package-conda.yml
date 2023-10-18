@@ -56,7 +56,7 @@ jobs:
     - name: Try to Run NLP_Project-2 notebooks
       run: |
         for file in $(find . -name 'NLP_Project-2.ipynb'); do
-          jupyter nbconvert --execute "$file" --to python -Xfrozen_modules=off
+          jupyter nbconvert --execute "$file" --to python 
         done
 
     # - name: Run NLP_Project notebooks
