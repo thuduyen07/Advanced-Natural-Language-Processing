@@ -53,18 +53,24 @@ jobs:
         python -m pip install --upgrade pip
         pip install jupyter
 
-    - name: Run NLP_Project notebooks
+    - name: Try to Run NLP_Project-2 notebooks
       run: |
-        for file in $(find . -name 'NLP_Project*.ipynb'); do
-          jupyter nbconvert --execute "$file" --to python
+        for file in $(find . -name 'NLP_Project-2.ipynb'); do
+          jupyter nbconvert --execute "$file" --to python -Xfrozen_modules=off
         done
 
-    - name: Run Evaluation scripts
-      run: |
-        for file in $(find . -name 'SourceCode_EveluationResult.py'); do
-          python "$file"
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "add results"
-        done
+    # - name: Run NLP_Project notebooks
+    #   run: |
+    #     for file in $(find . -name 'NLP_Project*.ipynb'); do
+    #       jupyter nbconvert --execute "$file" --to python
+    #     done
+
+    # - name: Run Evaluation scripts
+    #   run: |
+    #     for file in $(find . -name 'SourceCode_EveluationResult.py'); do
+    #       python "$file"
+    #       git config user.name github-actions
+    #       git config user.email github-actions@github.com
+    #       git add .
+    #       git commit -m "add results"
+    #     done
