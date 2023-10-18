@@ -7,3 +7,4 @@ dependencies:
   - tqdm
   - python-Levenshtein
   - openpyxl
+  - lxml
